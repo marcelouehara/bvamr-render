@@ -29,6 +29,7 @@ jobs:
       FISH_API_KEY: ${{ secrets.FISH_API_KEY }}
       FISH_VOICE: ${{ secrets.FISH_VOICE }}
       BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+      N8N_AVISO_URL: ${{ secrets.N8N_AVISO_URL }}
     steps:
       - uses: actions/checkout@v4
 
@@ -84,7 +85,7 @@ jobs:
 
       - name: Agendar no Buffer (YouTube e TikTok, 20h30)
         if: github.event_name == 'schedule' || inputs.publicar == 'true'
-        run: python3 publicar.py out "${{ steps.pub.outputs.url }}"
+        run: python3 publicar.py out "${{ steps.pub.outputs.url }}" | tee out/buffer.json
 
       - name: Guardar roteiro, fila e historico
         if: github.event_name == 'schedule' || inputs.publicar == 'true'
@@ -105,3 +106,27 @@ jobs:
             out/roteiro.json
             out/img
           retention-days: 7
+
+      # Aviso no Slack (via n8n): roteiro do dia para ler antes das 20h30, ou o erro com o link da execucao
+      - name: Avisar no Slack
+        if: always()
+        env:
+          STATUS: ${{ job.status }}
+          VIDEO: ${{ steps.pub.outputs.url }}
+          RUN: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          PUBLICAR: ${{ github.event_name == 'schedule' || inputs.publicar == 'true' }}
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request
+          st, run = os.environ["STATUS"], os.environ["RUN"]
+          if st == "success":
+              r = json.load(open("out/roteiro.json"))
+              falas = " ".join(c["fala"] for c in r["cenas"])
+              quando = "agendado para 20h30 no YouTube e no TikTok" if os.environ["PUBLICAR"] == "true" else "TESTE: nao foi publicado"
+              txt = (f":clapper: *Bem-vindo ao Mundo Real*: {r['titulo']}\n{quando}\nVideo: {os.environ['VIDEO']}\n"
+                     f"{len(r['cenas'])} cenas, {len(falas.split())} palavras\n\n>{falas}")
+          else:
+              txt = f":rotating_light: *Bem-vindo ao Mundo Real*: o Short de hoje falhou ({st}). Veja: {run}"
+          req = urllib.request.Request(os.environ["N8N_AVISO_URL"], json.dumps({"text": txt}).encode(), {"Content-Type": "application/json"})
+          print(urllib.request.urlopen(req, timeout=30).status)
+          PY
