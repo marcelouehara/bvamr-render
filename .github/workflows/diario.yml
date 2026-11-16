@@ -1,0 +1,107 @@
+name: short-diario
+
+# Todo dia às 18h30 de Brasília (21:30 UTC) gera o Short e agenda no Buffer para 20h30.
+# O cron do GitHub pode atrasar; com 2h de folga, o vídeo fica pronto antes do horário.
+on:
+  schedule:
+    - cron: "30 21 * * *"
+  workflow_dispatch:
+    inputs:
+      publicar:
+        description: 'Agendar no Buffer (false = so testar a geracao)'
+        default: 'true'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: short-diario
+  cancel-in-progress: false
+
+jobs:
+  short:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      KIE_API_KEY: ${{ secrets.KIE_API_KEY }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      FISH_API_KEY: ${{ secrets.FISH_API_KEY }}
+      FISH_VOICE: ${{ secrets.FISH_VOICE }}
+      BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Dependencias
+        timeout-minutes: 15
+        run: |
+          for i in 1 2 3; do
+            curl -sfL --retry 3 --max-time 240 -o /tmp/ff.tar.xz \
+              https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-linux64-gpl.tar.xz && break
+            echo "download do ffmpeg falhou (tentativa $i)"; sleep 10
+          done
+          mkdir -p /tmp/ff && tar -xf /tmp/ff.tar.xz -C /tmp/ff --strip-components=1
+          echo "/tmp/ff/bin" >> "$GITHUB_PATH"
+          for i in 1 2 3; do timeout 300 pip install -q --retries 5 --timeout 30 faster-whisper pillow numpy && break; sleep 15; done
+
+      - name: Roteiro (Gemini escreve, gpt-5 revisa)
+        run: python3 escrever_roteiro.py out
+
+      - name: Imagens (Flux 3 Klein + checagem Gemini) e voz
+        run: python3 gerar_cenas.py out flux
+
+      - name: Montar o video
+        run: |
+          cp assets/trilha.mp3 out/musica.mp3
+          python3 render_short.py out
+
+      # Branch "videos" sem historico: guarda os 5 videos mais recentes, servidos pelo GitHub Pages
+      - name: Publicar no branch videos
+        id: pub
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          NOME="$(TZ=America/Sao_Paulo date +%Y%m%d-%H%M).mp4"
+          mkdir -p /tmp/pub
+          if git fetch -q origin videos; then git archive FETCH_HEAD | tar -x -C /tmp/pub; fi
+          cp out/short.mp4 "/tmp/pub/$NOME"
+          cd /tmp/pub
+          ls *.mp4 | sort | head -n -5 | xargs -r rm -f
+          git init -q -b videos
+          git config user.name "bvamr-render"
+          git config user.email "actions@github.com"
+          git add -A && git commit -q -m "video $NOME"
+          git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" videos
+          echo "url=https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}/$NOME" >> "$GITHUB_OUTPUT"
+
+      - name: Esperar o GitHub Pages
+        run: |
+          for i in $(seq 1 40); do
+            [ "$(curl -s -o /dev/null -w '%{http_code}' '${{ steps.pub.outputs.url }}')" = "200" ] && exit 0
+            sleep 15
+          done
+          echo "Pages nao publicou o video em 10 min"; exit 1
+
+      - name: Agendar no Buffer (YouTube e TikTok, 20h30)
+        if: github.event_name == 'schedule' || inputs.publicar == 'true'
+        run: python3 publicar.py out "${{ steps.pub.outputs.url }}"
+
+      - name: Guardar roteiro, fila e historico
+        if: github.event_name == 'schedule' || inputs.publicar == 'true'
+        run: |
+          mkdir -p roteiros
+          cp out/roteiro.json "roteiros/$(TZ=America/Sao_Paulo date +%Y%m%d).json"
+          git config user.name "bvamr-render"
+          git config user.email "actions@github.com"
+          git add temas.md historico.csv roteiros
+          git commit -q -m "short $(TZ=America/Sao_Paulo date +%d/%m)" && git push -q
+
+      - name: Guardar arquivos do dia (para conferir)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: short-${{ github.run_id }}
+          path: |
+            out/roteiro.json
+            out/img
+          retention-days: 7
