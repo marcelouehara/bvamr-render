@@ -11,7 +11,7 @@ Temas da mesma família (cartão, juros, trabalho) podem virar um vídeo longo n
 | # | Área | Título (pergunta) | Analogia / exemplo | Fonte principal | Status |
 |---|---|---|---|---|---|
 | 1 | Dinheiro | O que são juros compostos? | bola de neve: R$ 1.000 a 10% vira R$ 1.331 em 3 meses | Banco Central (calculadora do cidadão) | feito 16/11 |
-| 2 | Direitos | Dá para devolver compra feita pela internet? | 7 dias de arrependimento, sem precisar de motivo | CDC, art. 49 | fila |
+| 2 | Direitos | Dá para devolver compra feita pela internet? | 7 dias de arrependimento, sem precisar de motivo | CDC, art. 49 | feito 17/11 (12h) |
 | 3 | Ciência | Por que o céu é azul? | a luz azul "quica" mais no ar que a vermelha | Material didático de física | fila |
 | 4 | Dinheiro | Por que o rotativo do cartão é tão caro? | pagar o mínimo é emprestar o resto ao banco pelo juro mais alto | Banco Central (cartão, Lei 14.690/2023) | fila |
 | 5 | Dinheiro | O que é inflação? | o mesmo R$ 100 enche menos o carrinho a cada ano | Banco Central, IBGE (IPCA) | fila |
