@@ -1,0 +1,326 @@
+{
+ "titulo": "Por que o céu é azul?",
+ "descricao": "Descubra o motivo real do céu ser azul de um jeito super simples. Uma explicação didática para entender a física da luz sem complicação.",
+ "hashtags": [
+  "por que o ceu e azul",
+  "curiosidades da ciencia",
+  "fisica no dia a dia",
+  "ciencia explicada",
+  "bem vindo ao mundo real"
+ ],
+ "fontes": [
+  {
+   "nome": "Instituto Nacional de Pesquisas Espaciais",
+   "url": "https://www.gov.br/inpe/pt-br/acesso-a-informacao/perguntas-frequentes/principais-produtos-e-servicos-do-inpe/observacoes-astronomicas/por-que-o-ceu-e-azul"
+  },
+  {
+   "nome": "Brasil Escola UOL",
+   "url": "https://brasilescola.uol.com.br/curiosidades/por-que-ceu-azul.htm"
+  }
+ ],
+ "cenas": [
+  {
+   "fala": "Por que o céu é azul?",
+   "ideia": "Mascote sentado na grama, olhando para o céu com cara curiosa",
+   "tela": "CÉU AZUL",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot sits cross-legged, head tilted up, one hand shading the eyes. A large simple green grass patch occupies the middle section. Exaggerated curious face. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "prompt_original": "Vertical 9:16 composition, exactly one character. The mascot sits cross‑legged on the ground, head tilted up, one hand shading the eyes. A large simple green grass patch occupies the lower half. Exaggerated curious face. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "revisao": "O patch de grama ocupando a metade inferior contradiz a regra de manter o terço inferior vazio.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: o mascote correto está sentado na grama, olhando para cima com expressão curiosa, expressando a fala perfeitamente."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "A resposta começa com a luz do Sol.",
+   "ideia": "Mascote apontando para um Sol grande e brilhante",
+   "tela": "LUZ DO SOL",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot stands with one arm fully extended, pointing upward. A big bright simple yellow sun with chunky rays fills at least a third of the frame. Exaggerated excited awe. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "O mascote segue todas as regras visuais e aponta claramente para o Sol grande, representando bem a fala."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Ela parece branca, só que tem muitas cores escondidas.",
+   "ideia": "Feixe branco chegando e virando bolinhas coloridas ao lado do mascote",
+   "tela": "CORES ESCONDIDAS",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot gestures with both hands toward a big white light beam that splits into large simple colored dots beside them. Exaggerated explaining grin. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "O mascote segue as regras e a cena retrata bem o feixe branco se dividindo em bolinhas coloridas."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Pensa em várias bolinhas coloridas viajando juntas.",
+   "ideia": "Mascote soprando várias bolinhas coloridas para a frente",
+   "tela": "BOLINHAS",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot leans forward, hands cupped by the mouth, blowing hard. A large cluster of simple colorful dots is being blown forward. Exaggerated puffed cheeks. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem ilustra perfeitamente o mascote soprando várias bolinhas coloridas para a frente, em conformidade total com a ideia e as regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Essas bolinhas passam pela nossa atmosfera, cheia de pedacinhos de ar.",
+   "ideia": "Mascote caminhando entre vários pontinhos de ar flutuando",
+   "tela": "ATMOSFERA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot tiptoes with arms out to the sides. A large field of floating simple air dots surrounds the path. Exaggerated cautious curiosity. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "Mascote adequado cercado por pontinhos de ar, embora a ação de caminhar não esteja muito clara."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "É tipo uma pista com obstáculos espalhados.",
+   "ideia": "Mascote numa pista com cones grandes espalhados",
+   "tela": "OBSTÁCULOS",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot weaves side to side, arms spread for balance. Several big simple orange traffic cones are scattered flatly across the scene. Exaggerated determined focus. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem mostra claramente o mascote cercado por cones espalhados como obstáculos, atendendo a todas as regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "A bolinha azul tem onda curtinha e vive esbarrando.",
+   "ideia": "Bolinha azul batendo num pontinho de ar e desviando",
+   "tela": "ONDA CURTA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot leans forward, one arm pointing. A large blue ball smacks into a single air dot with a clear bounce arc. Exaggerated startled whoa face. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "prompt_original": "Vertical 9:16 composition, exactly one character. The mascot leans forward, one arm pointing. A large blue ball smacks into a single air dot with a clear bounce arc. Exaggerated startled “whoa” face. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "revisao": "Uso de aspas curvas no texto do prompt.",
+   "checagem": {
+    "escolha": "B",
+    "nota": 10,
+    "motivo": "A imagem mostra claramente a bolinha azul batendo no pontinho de ar e desviando de sua trajetória."
+   },
+   "notas": {
+    "a": 3,
+    "b": 10
+   }
+  },
+  {
+   "fala": "A vermelha tem onda comprida e quase não desvia.",
+   "ideia": "Bolinha vermelha seguindo reta entre pontinhos de ar",
+   "tela": "ONDA LONGA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot gives a confident thumbs-up while watching. A large red ball moves straight through sparse simple air dots with a clear straight motion trail. Exaggerated confident grin. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "prompt_original": "Vertical 9:16 composition, exactly one character. The mascot gives a confident thumbs‑up while watching. A large red ball moves straight through sparse simple air dots with a clear straight motion trail. Exaggerated confident grin. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "revisao": "",
+   "checagem": {
+    "escolha": "A",
+    "nota": 9,
+    "motivo": "Mascote correto e representa bem a bolinha vermelha seguindo em linha reta."
+   },
+   "notas": {
+    "a": 9
+   }
+  },
+  {
+   "fala": "Então a azul quica muito e se espalha pelo céu.",
+   "ideia": "Bolinhas azuis saindo em todas as direções ao redor do mascote",
+   "tela": "ESPALHA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot crouches slightly with arms up defensively. Many large simple blue balls radiate outward in all directions around them. Exaggerated overwhelmed shock. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote está correto e rodeado por bolinhas azuis se espalhando, exatamente como a ideia pede."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Por isso, de dia, vemos o céu azulado.",
+   "ideia": "Mascote sorrindo sob um céu claro azulado",
+   "tela": "CÉU AZULADO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot stands with arms wide, looking up. A big simple curved blue sky band sits above like a dome. Exaggerated joyful smile. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "B",
+    "nota": 9,
+    "motivo": "O mascote possui todos os atributos corretos e está sorrindo sob uma representação clara do céu azul."
+   },
+   "notas": {
+    "a": 4,
+    "b": 9
+   }
+  },
+  {
+   "fala": "Agora, no fim da tarde, o Sol fica baixinho no horizonte.",
+   "ideia": "Sol baixo perto do horizonte, mascote apontando",
+   "tela": "HORIZONTE",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points toward the side with an outstretched arm. A big low sun sits near a straight horizontal horizon line. Exaggerated amazed look. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 9,
+    "motivo": "O mascote está correto, apontando, e o Sol está baixo no horizonte."
+   },
+   "notas": {
+    "a": 9
+   }
+  },
+  {
+   "fala": "A luz precisa atravessar muito mais ar para chegar.",
+   "ideia": "Caminho longo entre Sol e mascote cheio de pontinhos de ar",
+   "tela": "MUITO AR",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot squints with one hand shading the eyes. A very long horizontal band packed with simple air dots stretches from a big sun toward the mascot. Exaggerated straining face. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 9,
+    "motivo": "Ilustra o mascote correto, o Sol e o caminho de luz preenchido por pontinhos representando o ar."
+   },
+   "notas": {
+    "a": 9
+   }
+  },
+  {
+   "fala": "No caminho longo, o azul espalha tanto que se perde.",
+   "ideia": "Bolinhas azuis desviando tanto que somem antes do mascote",
+   "tela": "AZUL SOME",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot reaches out, palms up, searching. Many blue dots scatter and fade away before reaching the mascot. Exaggerated confused frown. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "Mostra o mascote correto e as bolinhas azuis se espalhando e desvanecendo no topo."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Sobra mais vermelho e laranja para nossos olhos.",
+   "ideia": "Céu colorido em vermelho e laranja, mascote admirando",
+   "tela": "VERMELHO E LARANJA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot clasps hands to the chest, looking up. A large red and orange sky band with simple puffy cloud shapes fills the upper area. Exaggerated awe. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "O mascote admirando e o céu em tons de vermelho e laranja cumprem a ideia e as regras."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Aí o céu fica com tons de fogo.",
+   "ideia": "Nuvens com brilho quente, céu bem alaranjado",
+   "tela": "TONS DE FOGO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot softly points upward with one hand. Big puffy clouds with warm glow sit in a very orange sky band across the top. Exaggerated serene wonder. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote está correto e a parte superior mostra claramente o céu alaranjado com nuvens de brilho quente."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "O nome chique disso é espalhamento de Rayleigh.",
+   "ideia": "Mascote com cartola e monóculo fazendo pose elegante",
+   "tela": "ESPALHAMENTO DE RAYLEIGH",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot wearing an oversized elegant top hat and monocle tips the hat with one hand, other hand on chest. Exaggerated posh smugness. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "prompt_original": "Vertical 9:16 composition, exactly one character. The mascot tips a hat with one hand and places the other on the chest. An oversized elegant top hat with a big attached monocle dominates the scene. Exaggerated posh smugness. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "revisao": "Descrição confusa de monóculo acoplado à cartola em vez de vestir no mascote.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 9,
+    "motivo": "O mascote está com cartola e em pose elegante, porém usa óculos em vez de um monóculo."
+   },
+   "notas": {
+    "a": 9
+   }
+  },
+  {
+   "fala": "Resumo rápido: azul espalha, vermelho segue mais reto.",
+   "ideia": "Mascote mostrando azul quicando e vermelho seguindo reto",
+   "tela": "AZUL ESPALHA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot presents with both hands, one to each side. A large blue ball zigzags on one side while a large red ball moves straight on the other side. Exaggerated teacherly enthusiasm. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "prompt_original": "Vertical 9:16 composition, exactly one character. The mascot presents with both hands, one to each side. A large simple diagram shows a blue ball zigzagging and a red ball moving straight. Exaggerated teacherly enthusiasm. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "revisao": "A palavra 'diagram' viola a regra 6 (proibido gráficos/diagramas).",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "O mascote cumpre as regras e mostra claramente a trajetória quicando do azul e reta do vermelho."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "E de noite, sem Sol iluminando o ar, sobra quase nada de luz.",
+   "ideia": "Céu noturno escuro com poucas estrelas e silhueta do mascote",
+   "tela": "NOITE",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot stands as a dark silhouette, head tilted back, hands in pockets. A large dark night-sky panel with a few simple star dots hangs above. Exaggerated sleepy calm. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "prompt_original": "Vertical 9:16 composition, exactly one character. The mascot stands as a dark silhouette, head tilted back, hands in pockets. A large dark night‑sky panel with a few simple star dots hangs above. Exaggerated sleepy calm. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "revisao": "",
+   "checagem": {
+    "escolha": "B",
+    "nota": 10,
+    "motivo": "A imagem mostra a silhueta do mascote abaixo de um céu noturno escuro com poucas estrelas, retratando com clareza a ideia e a fala."
+   },
+   "notas": {
+    "a": 6,
+    "b": 10
+   }
+  },
+  {
+   "fala": "Da próxima vez, olha pro céu e confere.",
+   "ideia": "Mascote com mão sobre a testa, olhando para cima",
+   "tela": "CONFERE",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot leans back, one hand over the forehead, scanning upward. A large simple empty sky band fills the upper area. Exaggerated determined curiosity. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "A imagem cumpre as regras do mascote e ilustra bem a pose de olhar para cima com a mão na testa."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Seja bem-vindo ao mundo real.",
+   "ideia": "Mascote cansado acenando com uma mão, fundo branco",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot slumps slightly and waves weakly with one hand. A large empty white space surrounds the character. Exaggerated tired face. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem mostra perfeitamente o mascote cansado acenando com uma mão, em fundo branco e sem texto."
+   },
+   "notas": {
+    "a": 10
+   }
+  }
+ ],
+ "ajustes": [
+  "Simplifiquei a linguagem e usei conectores para fluidez.",
+  "Removi números imprecisos e metáforas enganosas.",
+  "Troquei pesado/leve por ondas curtas/longas, mais fiel à física.",
+  "Ajustei ideias para funcionarem sem textos na imagem.",
+  "Padronizei telas com 0 a 3 palavras-chave.",
+  "Ajustei contagem: 20 cenas, 172 palavras e falas até 20 palavras."
+ ]
+}
