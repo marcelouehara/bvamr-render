@@ -1,314 +1,288 @@
 {
- "titulo": "Por que o céu é azul?",
- "descricao": "Descubra o motivo real do céu ser azul de um jeito super simples. Uma explicação didática para entender a física da luz sem complicação.",
+ "titulo": "Por que o rotativo do cartão é tão caro?",
+ "descricao": "Descubra o motivo de pagar apenas o mínimo da fatura do cartão custar tão caro. Entenda como funciona essa cobrança e qual é o limite estabelecido por lei.",
  "hashtags": [
-  "por que o ceu e azul",
-  "curiosidades da ciencia",
-  "fisica no dia a dia",
-  "ciencia explicada",
-  "bem vindo ao mundo real"
+  "cartaodecredito",
+  "creditorotativo",
+  "educacaofinanceira",
+  "financas",
+  "bancocentral",
+  "direitodoconsumidor"
  ],
  "fontes": [
   {
-   "nome": "Instituto Nacional de Pesquisas Espaciais",
-   "url": "https://www.gov.br/inpe/pt-br/acesso-a-informacao/perguntas-frequentes/principais-produtos-e-servicos-do-inpe/observacoes-astronomicas/por-que-o-ceu-e-azul"
-  },
-  {
-   "nome": "Brasil Escola UOL",
-   "url": "https://brasilescola.uol.com.br/curiosidades/por-que-ceu-azul.htm"
+   "nome": "Banco Central do Brasil: Limite dos juros do cartão entra em vigor (Lei 14.690/2023)",
+   "url": "https://www.bcb.gov.br/detalhenoticia/18021/nota"
   }
  ],
  "cenas": [
   {
-   "fala": "Por que o céu é azul?",
-   "ideia": "Mascote sentado na grama, olhando para o céu com cara curiosa",
-   "tela": "CÉU AZUL",
-   "prompt": "Vertical 9:16 composition, exactly one character. The mascot sits cross-legged, head tilted up, one hand shading the eyes. A large simple green grass patch occupies the middle section. Exaggerated curious face. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "prompt_original": "Vertical 9:16 composition, exactly one character. The mascot sits cross‑legged on the ground, head tilted up, one hand shading the eyes. A large simple green grass patch occupies the lower half. Exaggerated curious face. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "revisao": "O patch de grama ocupando a metade inferior contradiz a regra de manter o terço inferior vazio.",
+   "fala": "Por que o rotativo do cartão é tão caro?",
+   "ideia": "Mascote assustado olhando para um cartão grande com boca de dentes afiados",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot leans back with hands up, staring at a huge credit card with a wide mouth full of sharp teeth. Shocked, terrified expression. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
    "checagem": {
-    "escolha": "A",
-    "nota": 10,
-    "motivo": "A imagem cumpre todas as regras: o mascote correto está sentado na grama, olhando para cima com expressão curiosa, expressando a fala perfeitamente."
-   },
-   "notas": {
-    "a": 10
-   }
-  },
-  {
-   "fala": "A resposta começa com a luz do Sol.",
-   "ideia": "Mascote apontando para um Sol grande e brilhante",
-   "tela": "LUZ DO SOL",
-   "prompt": "Vertical 9:16 composition, exactly one character. The mascot stands with one arm fully extended, pointing upward. A big bright simple yellow sun with chunky rays fills at least a third of the frame. Exaggerated excited awe. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "checagem": {
-    "escolha": "A",
+    "escolha": "C",
     "nota": 7,
-    "motivo": "O mascote segue todas as regras visuais e aponta claramente para o Sol grande, representando bem a fala."
+    "motivo": "Mostra o mascote assustado e o cartão com dentes afiados, embora o cartão esteja sobreposto ao rosto."
    },
    "notas": {
-    "a": 7
+    "a": 2,
+    "b": 3,
+    "c": 7
    }
   },
   {
-   "fala": "Ela parece branca, só que tem muitas cores escondidas.",
-   "ideia": "Feixe branco chegando e virando bolinhas coloridas ao lado do mascote",
-   "tela": "CORES ESCONDIDAS",
-   "prompt": "Vertical 9:16 composition, exactly one character. The mascot gestures with both hands toward a big white light beam that splits into large simple colored dots beside them. Exaggerated explaining grin. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "checagem": {
-    "escolha": "A",
-    "nota": 7,
-    "motivo": "O mascote segue as regras e a cena retrata bem o feixe branco se dividindo em bolinhas coloridas."
-   },
-   "notas": {
-    "a": 7
-   }
-  },
-  {
-   "fala": "Pensa em várias bolinhas coloridas viajando juntas.",
-   "ideia": "Mascote soprando várias bolinhas coloridas para a frente",
-   "tela": "BOLINHAS",
-   "prompt": "Vertical 9:16 composition, exactly one character. The mascot leans forward, hands cupped by the mouth, blowing hard. A large cluster of simple colorful dots is being blown forward. Exaggerated puffed cheeks. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "checagem": {
-    "escolha": "A",
-    "nota": 10,
-    "motivo": "A imagem ilustra perfeitamente o mascote soprando várias bolinhas coloridas para a frente, em conformidade total com a ideia e as regras."
-   },
-   "notas": {
-    "a": 10
-   }
-  },
-  {
-   "fala": "Essas bolinhas passam pela nossa atmosfera, cheia de pedacinhos de ar.",
-   "ideia": "Mascote caminhando entre vários pontinhos de ar flutuando",
-   "tela": "ATMOSFERA",
-   "prompt": "Vertical 9:16 composition, exactly one character. The mascot tiptoes with arms out to the sides. A large field of floating simple air dots surrounds the path. Exaggerated cautious curiosity. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "checagem": {
-    "escolha": "A",
-    "nota": 7,
-    "motivo": "Mascote adequado cercado por pontinhos de ar, embora a ação de caminhar não esteja muito clara."
-   },
-   "notas": {
-    "a": 7
-   }
-  },
-  {
-   "fala": "É tipo uma pista com obstáculos espalhados.",
-   "ideia": "Mascote numa pista com cones grandes espalhados",
-   "tela": "OBSTÁCULOS",
-   "prompt": "Vertical 9:16 composition, exactly one character. The mascot weaves side to side, arms spread for balance. Several big simple orange traffic cones are scattered flatly across the scene. Exaggerated determined focus. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "checagem": {
-    "escolha": "A",
-    "nota": 10,
-    "motivo": "A imagem mostra claramente o mascote cercado por cones espalhados como obstáculos, atendendo a todas as regras."
-   },
-   "notas": {
-    "a": 10
-   }
-  },
-  {
-   "fala": "A bolinha azul tem onda curtinha e vive esbarrando.",
-   "ideia": "Bolinha azul batendo num pontinho de ar e desviando",
-   "tela": "ONDA CURTA",
-   "prompt": "Vertical 9:16 composition, exactly one character. The mascot leans forward, one arm pointing. A large blue ball smacks into a single air dot with a clear bounce arc. Exaggerated startled whoa face. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "prompt_original": "Vertical 9:16 composition, exactly one character. The mascot leans forward, one arm pointing. A large blue ball smacks into a single air dot with a clear bounce arc. Exaggerated startled “whoa” face. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "revisao": "Uso de aspas curvas no texto do prompt.",
-   "checagem": {
-    "escolha": "B",
-    "nota": 10,
-    "motivo": "A imagem mostra claramente a bolinha azul batendo no pontinho de ar e desviando de sua trajetória."
-   },
-   "notas": {
-    "a": 3,
-    "b": 10
-   }
-  },
-  {
-   "fala": "A vermelha tem onda comprida e quase não desvia.",
-   "ideia": "Bolinha vermelha seguindo reta entre pontinhos de ar",
-   "tela": "ONDA LONGA",
-   "prompt": "Vertical 9:16 composition, exactly one character. The mascot gives a confident thumbs-up while watching. A large red ball moves straight through sparse simple air dots with a clear straight motion trail. Exaggerated confident grin. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "prompt_original": "Vertical 9:16 composition, exactly one character. The mascot gives a confident thumbs‑up while watching. A large red ball moves straight through sparse simple air dots with a clear straight motion trail. Exaggerated confident grin. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "revisao": "",
+   "fala": "Porque, na prática, é um empréstimo de emergência, pego sem combinar antes.",
+   "ideia": "Mascote apontando para um saco de dinheiro com expressão de susto",
+   "tela": "EMPRÉSTIMO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points with one hand at a big cloth money bag while clutching chest with the other. Startled, wide-eyed expression. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
    "checagem": {
     "escolha": "A",
     "nota": 9,
-    "motivo": "Mascote correto e representa bem a bolinha vermelha seguindo em linha reta."
+    "motivo": "O mascote cumpre todas as regras visuais, está apontando para o saco de dinheiro e demonstra expressão de preocupação/susto."
    },
    "notas": {
     "a": 9
    }
   },
   {
-   "fala": "Então a azul quica muito e se espalha pelo céu.",
-   "ideia": "Bolinhas azuis saindo em todas as direções ao redor do mascote",
-   "tela": "ESPALHA",
-   "prompt": "Vertical 9:16 composition, exactly one character. The mascot crouches slightly with arms up defensively. Many large simple blue balls radiate outward in all directions around them. Exaggerated overwhelmed shock. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "fala": "Imagina que sua fatura chegou em R$ 100.",
+   "ideia": "Mascote segurando um papel de conta ao lado de poucas moedas",
+   "tela": "R$ 100",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot holds a large bill paper in one hand beside a small, sparse group of gold coins on the floor. Worried, anxious expression. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
    "checagem": {
     "escolha": "A",
     "nota": 10,
-    "motivo": "O mascote está correto e rodeado por bolinhas azuis se espalhando, exatamente como a ideia pede."
+    "motivo": "Segue perfeitamente todas as regras: o mascote está correto, sem textos, segurando a conta com poucas moedas ao lado."
    },
    "notas": {
     "a": 10
    }
   },
   {
-   "fala": "Por isso, de dia, vemos o céu azulado.",
-   "ideia": "Mascote sorrindo sob um céu claro azulado",
-   "tela": "CÉU AZULADO",
-   "prompt": "Vertical 9:16 composition, exactly one character. The mascot stands with arms wide, looking up. A big simple curved blue sky band sits above like a dome. Exaggerated joyful smile. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "checagem": {
-    "escolha": "B",
-    "nota": 9,
-    "motivo": "O mascote possui todos os atributos corretos e está sorrindo sob uma representação clara do céu azul."
-   },
-   "notas": {
-    "a": 4,
-    "b": 9
-   }
-  },
-  {
-   "fala": "Agora, no fim da tarde, o Sol fica baixinho no horizonte.",
-   "ideia": "Sol baixo perto do horizonte, mascote apontando",
-   "tela": "HORIZONTE",
-   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points toward the side with an outstretched arm. A big low sun sits near a straight horizontal horizon line. Exaggerated amazed look. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "checagem": {
-    "escolha": "A",
-    "nota": 9,
-    "motivo": "O mascote está correto, apontando, e o Sol está baixo no horizonte."
-   },
-   "notas": {
-    "a": 9
-   }
-  },
-  {
-   "fala": "A luz precisa atravessar muito mais ar para chegar.",
-   "ideia": "Caminho longo entre Sol e mascote cheio de pontinhos de ar",
-   "tela": "MUITO AR",
-   "prompt": "Vertical 9:16 composition, exactly one character. The mascot squints with one hand shading the eyes. A very long horizontal band packed with simple air dots stretches from a big sun toward the mascot. Exaggerated straining face. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "checagem": {
-    "escolha": "A",
-    "nota": 9,
-    "motivo": "Ilustra o mascote correto, o Sol e o caminho de luz preenchido por pontinhos representando o ar."
-   },
-   "notas": {
-    "a": 9
-   }
-  },
-  {
-   "fala": "No caminho longo, o azul espalha tanto que se perde.",
-   "ideia": "Bolinhas azuis desviando tanto que somem antes do mascote",
-   "tela": "AZUL SOME",
-   "prompt": "Vertical 9:16 composition, exactly one character. The mascot reaches out, palms up, searching. Many blue dots scatter and fade away before reaching the mascot. Exaggerated confused frown. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "fala": "Só que você só tem R$ 20 e paga isso.",
+   "ideia": "Mascote entregando duas moedas grandes para a frente",
+   "tela": "R$ 20",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot reaches forward with both hands, offering two oversized gold coins. Strained, apologetic expression. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
    "checagem": {
     "escolha": "A",
     "nota": 7,
-    "motivo": "Mostra o mascote correto e as bolinhas azuis se espalhando e desvanecendo no topo."
+    "motivo": "A imagem cumpre as regras do mascote e mostra claramente a entrega das duas moedas grandes."
    },
    "notas": {
     "a": 7
    }
   },
   {
-   "fala": "Sobra mais vermelho e laranja para nossos olhos.",
-   "ideia": "Céu colorido em vermelho e laranja, mascote admirando",
-   "tela": "VERMELHO E LARANJA",
-   "prompt": "Vertical 9:16 composition, exactly one character. The mascot clasps hands to the chest, looking up. A large red and orange sky band with simple puffy cloud shapes fills the upper area. Exaggerated awe. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "checagem": {
-    "escolha": "A",
-    "nota": 7,
-    "motivo": "O mascote admirando e o céu em tons de vermelho e laranja cumprem a ideia e as regras."
-   },
-   "notas": {
-    "a": 7
-   }
-  },
-  {
-   "fala": "Aí o céu fica com tons de fogo.",
-   "ideia": "Nuvens com brilho quente, céu bem alaranjado",
-   "tela": "TONS DE FOGO",
-   "prompt": "Vertical 9:16 composition, exactly one character. The mascot softly points upward with one hand. Big puffy clouds with warm glow sit in a very orange sky band across the top. Exaggerated serene wonder. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "fala": "Ficam R$ 80 sem pagar naquele dia.",
+   "ideia": "Mascote guardando uma pequena pilha de moedas no bolso",
+   "tela": "R$ 80",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot tucks a small stack of coins into a pocket with one hand, glancing down. Guilty, uneasy expression. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
    "checagem": {
     "escolha": "A",
     "nota": 10,
-    "motivo": "O mascote está correto e a parte superior mostra claramente o céu alaranjado com nuvens de brilho quente."
+    "motivo": "A imagem cumpre todas as regras e mostra perfeitamente o mascote guardando as moedas no bolso."
    },
    "notas": {
     "a": 10
    }
   },
   {
-   "fala": "O nome chique disso é espalhamento de Rayleigh.",
-   "ideia": "Mascote com cartola e monóculo fazendo pose elegante",
-   "tela": "ESPALHAMENTO DE RAYLEIGH",
-   "prompt": "Vertical 9:16 composition, exactly one character. The mascot wearing an oversized elegant top hat and monocle tips the hat with one hand, other hand on chest. Exaggerated posh smugness. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "prompt_original": "Vertical 9:16 composition, exactly one character. The mascot tips a hat with one hand and places the other on the chest. An oversized elegant top hat with a big attached monocle dominates the scene. Exaggerated posh smugness. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "revisao": "Descrição confusa de monóculo acoplado à cartola em vez de vestir no mascote.",
+   "fala": "O banco transforma esses R$ 80 num empréstimo automático.",
+   "ideia": "Prédio de banco empurrando um saco de dinheiro para o mascote",
+   "tela": "AUTOMÁTICO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot steps forward with hands reaching toward a big cloth money bag being pushed by a simple bank building block. Surprised, hesitant expression. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
    "checagem": {
     "escolha": "A",
     "nota": 9,
-    "motivo": "O mascote está com cartola e em pose elegante, porém usa óculos em vez de um monóculo."
+    "motivo": "A imagem representa bem a ideia com o prédio do banco e o mascote recebendo o saco de dinheiro, seguindo todas as regras."
    },
    "notas": {
     "a": 9
    }
   },
   {
-   "fala": "Resumo rápido: azul espalha, vermelho segue mais reto.",
-   "ideia": "Mascote mostrando azul quicando e vermelho seguindo reto",
-   "tela": "AZUL ESPALHA",
-   "prompt": "Vertical 9:16 composition, exactly one character. The mascot presents with both hands, one to each side. A large blue ball zigzags on one side while a large red ball moves straight on the other side. Exaggerated teacherly enthusiasm. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "prompt_original": "Vertical 9:16 composition, exactly one character. The mascot presents with both hands, one to each side. A large simple diagram shows a blue ball zigzagging and a red ball moving straight. Exaggerated teacherly enthusiasm. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "revisao": "A palavra 'diagram' viola a regra 6 (proibido gráficos/diagramas).",
+   "fala": "É como pegar dinheiro do vizinho de surpresa.",
+   "ideia": "Mascote pegando um saco de moedas no quintal do vizinho boneco-palito",
+   "tela": "VIZINHO",
+   "prompt": "Vertical 9:16 composition, exactly one mascot plus one faceless stick figure. The mascot leans over a simple fence, grabbing a large money bag while the stick figure stands nearby. Sneaky, guilty expression. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "prompt_original": "Vertical 9:16 composition, exactly one mascot plus one faceless stick figure. The mascot leans over a fence, grabbing a large money bag of coins from a simple yard while the stick figure stands nearby. Sneaky, guilty expression. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "revisao": "A palavra 'yard' no prompt pode gerar cenário detalhado de quintal, violando o fundo chapado.",
    "checagem": {
     "escolha": "A",
-    "nota": 7,
-    "motivo": "O mascote cumpre as regras e mostra claramente a trajetória quicando do azul e reta do vermelho."
-   },
-   "notas": {
-    "a": 7
-   }
-  },
-  {
-   "fala": "E de noite, sem Sol iluminando o ar, sobra quase nada de luz.",
-   "ideia": "Céu noturno escuro com poucas estrelas e silhueta do mascote",
-   "tela": "NOITE",
-   "prompt": "Vertical 9:16 composition, exactly one character. The mascot stands as a dark silhouette, head tilted back, hands in pockets. A large dark night-sky panel with a few simple star dots hangs above. Exaggerated sleepy calm. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "prompt_original": "Vertical 9:16 composition, exactly one character. The mascot stands as a dark silhouette, head tilted back, hands in pockets. A large dark night‑sky panel with a few simple star dots hangs above. Exaggerated sleepy calm. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
-   "revisao": "",
-   "checagem": {
-    "escolha": "B",
     "nota": 10,
-    "motivo": "A imagem mostra a silhueta do mascote abaixo de um céu noturno escuro com poucas estrelas, retratando com clareza a ideia e a fala."
+    "motivo": "A imagem retrata perfeitamente o mascote pegando o saco de dinheiro do vizinho boneco-palito de forma sorrateira."
    },
    "notas": {
-    "a": 6,
-    "b": 10
+    "a": 10
    }
   },
   {
-   "fala": "Da próxima vez, olha pro céu e confere.",
-   "ideia": "Mascote com mão sobre a testa, olhando para cima",
-   "tela": "CONFERE",
-   "prompt": "Vertical 9:16 composition, exactly one character. The mascot leans back, one hand over the forehead, scanning upward. A large simple empty sky band fills the upper area. Exaggerated determined curiosity. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "fala": "Como foi sem aviso, ele cobra bem caro.",
+   "ideia": "Vizinho de braços cruzados apontando para uma pilha grande de moedas",
+   "tela": "CARO",
+   "prompt": "Vertical 9:16 composition, exactly one mascot plus one faceless stick figure. The stick figure stands with arms crossed and points at a huge pile of coins; the mascot shrinks back slightly. Intimidated, worried expression. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
    "checagem": {
     "escolha": "A",
     "nota": 7,
-    "motivo": "A imagem cumpre as regras do mascote e ilustra bem a pose de olhar para cima com a mão na testa."
+    "motivo": "A imagem atende à ideia com a pilha de moedas e a figura sem rosto, respeitando todas as regras visualmente."
    },
    "notas": {
     "a": 7
+   }
+  },
+  {
+   "fala": "No cartão é parecido: é uma das taxas mais altas do mercado.",
+   "ideia": "Prédio de banco colocando uma coroa em uma moeda gigante",
+   "tela": "TAXA ALTA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points upward at a giant coin while a simple bank building places a crown on it. Resigned, concerned expression. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem retrata perfeitamente a ideia do prédio de banco colocando a coroa na moeda gigante, sem texto e respeitando as regras do mascote."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "E no mês seguinte, ele precisa te oferecer parcelar essa conta.",
+   "ideia": "Calendário virando a folha enquanto um funcionário oferece caixinhas empilhadas",
+   "tela": "PARCELAR",
+   "prompt": "Vertical 9:16 composition, exactly one mascot plus one faceless stick figure. The mascot looks at a calendar page flipping while the stick figure offers tall stacked boxes forward. Curious, uncertain expression. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "A imagem atende a todos os critérios: apresenta o mascote correto, o boneco-palito oferecendo as caixinhas, o calendário virando e nenhum texto escrito."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Esse parcelamento costuma ter juros menores que o rotativo.",
+   "ideia": "Mascote comparando duas pilhas de moedas, uma alta e outra mais baixa",
+   "tela": "JUROS MENORES",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot spreads arms comparing two coin stacks: one very tall and one clearly shorter. Thoughtful, relieved expression. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem atende perfeitamente a todas as regras, mostrando o mascote correto comparando uma pilha alta e uma mais baixa de moedas sem nenhum texto."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Agora vem a parte importante.",
+   "ideia": "Mascote com olhos arregalados sob um holofote",
+   "tela": "IMPORTANTE",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot stands under a big spotlight cone, hands to cheeks, eyes wide open. Alarmed, focused expression. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "A imagem retrata adequadamente o mascote sob o holofote com olhos arregalados, respeitando todas as regras visuais."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Por lei, juros e tarifas desse empréstimo têm um teto.",
+   "ideia": "Mascote protegido por uma tampa pesada acima de uma pilha de moedas",
+   "tela": "LIMITE",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot crouches under a heavy lid shielding a pile of coins, one hand bracing the lid. Determined, protected expression. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "Representa o teto e as moedas, mas o curativo ficou na tampa em vez de estar na testa do mascote."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Juros e tarifas juntos nunca podem passar de 100% do valor original.",
+   "ideia": "Duas pilhas idênticas de moedas lado a lado",
+   "tela": "100%",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot gestures between two identical side-by-side stacks of gold coins. Matter-of-fact, emphatic expression. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: o mascote está correto, não há texto, e exibe claramente duas pilhas idênticas de moedas lado a lado."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Devia R$ 80? O banco pode cobrar no máximo mais R$ 80.",
+   "ideia": "Mascote medindo duas pilhas iguais de moedas com uma régua",
+   "tela": "MAIS R$ 80",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot measures two equal coin stacks with a big ruler, squinting closely. Precise, confident expression. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: o mascote está correto, sem textos, medindo duas pilhas iguais de moedas com uma régua."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Sua dívida inteira não passa de R$ 160.",
+   "ideia": "Pilha de moedas com uma tampa travando o topo",
+   "tela": "R$ 160",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points at a tall coin stack locked by a firm cap on top. Confident, reassuring expression. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras, com o mascote correto e a pilha de moedas com uma tampa no topo."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "O nome chique disso é crédito rotativo.",
+   "ideia": "Mascote de cartola e monóculo fazendo pose",
+   "tela": "CRÉDITO ROTATIVO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot strikes a proud pose, tipping an oversized top hat and adjusting a giant monocle. Smug, fancy expression. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote está de cartola, monóculo e fazendo uma pose chique, atendendo perfeitamente à ideia e às regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Resumo: pagar o mínimo vira o empréstimo mais caro do banco.",
+   "ideia": "Mascote segurando balança: um prato com poucas moedas e outro com saco pesado",
+   "tela": "PAGAR O MÍNIMO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot holds a big balance scale: one plate with a few coins, the other sagging with a heavy cloth money bag. Exaggerated strain, shocked expression. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem ilustra perfeitamente a ideia solicitada, com o mascote correto segurando a balança contendo poucas moedas e um saco pesado, sem textos."
+   },
+   "notas": {
+    "a": 10
    }
   },
   {
    "fala": "Seja bem-vindo ao mundo real.",
    "ideia": "Mascote cansado acenando com uma mão, fundo branco",
    "tela": "",
-   "prompt": "Vertical 9:16 composition, exactly one character. The mascot slumps slightly and waves weakly with one hand. A large empty white space surrounds the character. Exaggerated tired face. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot waves tiredly with one hand, slouched shoulders. Exhausted, resigned expression. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "prompt_original": "Vertical 9:16 composition, exactly one character. The mascot waves tiredly with one hand, slouched shoulders. Exhausted, resigned expression. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "revisao": "O fundo no prompt estava rosa ('pink background'), mas a ideia exige fundo branco ('fundo branco').",
    "checagem": {
     "escolha": "A",
     "nota": 10,
-    "motivo": "A imagem mostra perfeitamente o mascote cansado acenando com uma mão, em fundo branco e sem texto."
+    "motivo": "A imagem mostra perfeitamente o mascote cansado acenando em um fundo branco, seguindo todas as regras descritas."
    },
    "notas": {
     "a": 10
@@ -316,11 +290,11 @@
   }
  ],
  "ajustes": [
-  "Simplifiquei a linguagem e usei conectores para fluidez.",
-  "Removi números imprecisos e metáforas enganosas.",
-  "Troquei pesado/leve por ondas curtas/longas, mais fiel à física.",
-  "Ajustei ideias para funcionarem sem textos na imagem.",
-  "Padronizei telas com 0 a 3 palavras-chave.",
-  "Ajustei contagem: 20 cenas, 172 palavras e falas até 20 palavras."
+  "Simplifiquei a linguagem e conectei as frases para soar como conversa.",
+  "Esclareci que o limite vale para juros e tarifas somados, até 100% da dívida.",
+  "Incluí a oferta de parcelamento no mês seguinte, geralmente com juros menores.",
+  "Ajustei as cenas para mostrar ações sem depender de texto na imagem.",
+  "Padronizei telas com até três palavras e revisei exemplos e números.",
+  "Ajustei a formatação da fonte para ficar clara e atual."
  ]
 }
