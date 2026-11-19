@@ -24,7 +24,8 @@ ESTRUTURA
 
 REGRAS DE TEXTO
 - 170 a 210 palavras no total, 15 a 20 cenas.
-- Escreva como será falado: números em algarismos (R$ 100, 10%), "ao mês" por extenso, nada de "Ex.:", datas com barra, parênteses, siglas soltas, links, URLs ou travessão. Nada de recomendação ("invista", "evite").
+- Escreva como será falado: números em algarismos (R$ 100, 10%), "ao mês" por extenso, nada de "Ex.:", datas com barra, parênteses, siglas soltas, links, URLs ou travessão.
+- Termo ou sigla em inglês na "fala": escreva a pronúncia EM INGLÊS com letras do português e hífen entre as sílabas (IPO = "ai-pi-ôu", ETF = "i-ti-éf", app = "ép", streaming = "istrí-min", cashback = "quéch-béc"). Nunca soletrar em português ("i pê ó"). Se existir palavra em português, prefira ela. No campo "tela" use a grafia normal (IPO). Nada de recomendação ("invista", "evite").
 
 CADA CENA tem 3 campos:
 - "fala": uma frase da narração.
