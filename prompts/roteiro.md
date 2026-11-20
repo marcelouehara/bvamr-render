@@ -1,4 +1,4 @@
-Você escreve o storyboard de um Short (70 a 90 segundos) do canal brasileiro "Bem-vindo ao Mundo Real", que explica coisas do dia a dia para QUALQUER pessoa, inclusive quem nunca ouviu falar do assunto. Narração do Marcelo, português do Brasil. Visual: desenho tosco feito à mão, com um mascote fixo (adulto careca, curativo na testa, gravata vermelha).
+Você escreve o storyboard de um Short (60 a 70 segundos) do canal brasileiro "Bem-vindo ao Mundo Real", que explica coisas do dia a dia para QUALQUER pessoa, inclusive quem nunca ouviu falar do assunto. Narração do Marcelo, português do Brasil. Visual: desenho tosco feito à mão, com um mascote fixo (adulto careca, curativo na testa, gravata vermelha).
 
 TEMA (título em forma de pergunta): {{TITULO}}
 COMPARAÇÃO / EXEMPLO SUGERIDO: {{ANALOGIA}}
@@ -12,18 +12,19 @@ TOM E LINGUAGEM (o mais importante)
 - Uma comparação com algo que todo mundo conhece e um exemplo com números redondos que dá para fazer de cabeça, passo a passo.
 - Didático, sem pressa: cada frase uma ideia só, até 20 palavras.
 
-ESTRUTURA
-1. Pergunta que a pessoa já se fez (é o título).
-2. A resposta curta ("a resposta tem nome: ...").
+ESTRUTURA (dados do canal em 20/11/2026: o público fica no começo, mas só 12% chega ao fim; a maior queda é entre 6 e 10 segundos)
+1. Gancho: a pergunta que a pessoa já se fez (é o título), dita como situação dela, com no máximo 12 palavras. Nada de "neste vídeo" ou "hoje eu explico".
+2. Puxe a curiosidade sem entregar tudo: diga o nome da resposta mas segure a parte surpreendente para o meio ("a resposta tem nome: juros. Só que tem um detalhe que quase ninguém percebe.").
 3. A história com o exemplo, passo a passo.
 4. A comparação com algo do dia a dia.
-5. O outro lado ou a parte perigosa/surpreendente, com o exemplo continuando.
+5. A VIRADA no meio do vídeo: o outro lado ou a parte perigosa/surpreendente, com o exemplo continuando ("agora, a parte perigosa").
 6. O nome técnico ("o nome chique disso é...").
 7. A regra para levar para casa.
-8. "Seja bem-vindo ao mundo real." (última fala, exatamente assim)
+8. Convite para comentar UMA palavra ligada ao tema, fácil de digitar ("Se isso já te pegou, comenta JUROS."). Nunca pergunta aberta, nunca pedir para seguir ou se inscrever.
+9. "Seja bem-vindo ao mundo real." (última fala, exatamente assim)
 
 REGRAS DE TEXTO
-- 170 a 210 palavras no total, 15 a 20 cenas.
+- 140 a 170 palavras no total, 13 a 17 cenas.
 - Escreva como será falado: números em algarismos (R$ 100, 10%), "ao mês" por extenso, nada de "Ex.:", datas com barra, parênteses, siglas soltas, links, URLs ou travessão.
 - Termo ou sigla em inglês na "fala": escreva a pronúncia EM INGLÊS com letras do português e hífen entre as sílabas (IPO = "ai-pi-ôu", ETF = "i-ti-éf", app = "ép", streaming = "istrí-min", cashback = "quéch-béc"). Nunca soletrar em português ("i pê ó"). Se existir palavra em português, prefira ela. No campo "tela" use a grafia normal (IPO).
 - Palavras com pronúncia ambígua na "fala": marque o acento que mostra o som certo. "Corte" de redução, ferida ou parte (corte de gastos, corte no dedo) se escreve "córte"; só "a Corte" (tribunal, palácio) fica sem acento. Nada de recomendação ("invista", "evite").
@@ -51,6 +52,7 @@ EXEMPLO APROVADO ("Por que sua dívida cresce sozinha?"):
 {"fala": "Juro em cima de juro: é assim que uma dívida pequena vira uma bola de neve.", "ideia": "Bola de neve gigante feita de moedas douradas descendo um morro, e o mascote correndo dela apavorado", "tela": "BOLA DE NEVE"}
 {"fala": "O nome chique disso é juros compostos.", "ideia": "Mascote de cartola e monóculo, fazendo pose chique e esnobe", "tela": "JUROS COMPOSTOS"}
 {"fala": "Então guarda essa regra: juros são ótimos quando você recebe e péssimos quando você paga.", "ideia": "Mascote segurando uma balança: num prato um cofrinho feliz, no outro uma bola de ferro pesada", "tela": "RECEBER x PAGAR"}
+{"fala": "Se isso já te pegou, comenta JUROS aqui embaixo.", "ideia": "Mascote apontando para baixo com as duas mãos, piscando um olho", "tela": "COMENTA JUROS"}
 {"fala": "Seja bem-vindo ao mundo real.", "ideia": "Mascote cansado acenando com uma mão, fundo branco", "tela": ""}
 
 SAÍDA: só JSON válido:
