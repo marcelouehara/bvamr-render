@@ -1,0 +1,313 @@
+{
+ "titulo": "O que é inflação?",
+ "descricao": "Descubra o que é inflação de um jeito simples e como ela afeta o seu bolso no dia a dia. Entenda por que deixar dinheiro parado faz você perder poder de compra sem perceber.",
+ "hashtags": [
+  "inflacao",
+  "educacaofinanceira",
+  "economia",
+  "ipca",
+  "dinheiro",
+  "financas",
+  "mundoreal"
+ ],
+ "fontes": [
+  {
+   "nome": "Banco Central do Brasil - O que é inflação",
+   "url": "https://www.bcb.gov.br/controleinflacao/oqueeinflacao"
+  },
+  {
+   "nome": "IBGE - Inflação (IPCA)",
+   "url": "https://www.ibge.gov.br/explica/inflacao.php"
+  }
+ ],
+ "cenas": [
+  {
+   "fala": "Por que o seu dinheiro parece comprar cada vez menos coisas no mercado?",
+   "ideia": "Mascote surpreso empurrando um carrinho de compras quase vazio e olhando para dentro dele",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot pushes a nearly empty shopping cart with one hand and leans to peer inside. Large almost-empty shopping cart. Wide-eyed shock. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem retrata com precisão o mascote com as características corretas, surpreso, empurrando um carrinho de compras quase vazio."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Isso acontece porque os preços sobem com o tempo.",
+   "ideia": "Mascote observando setas pequenas apontando para cima ao lado de prateleiras cheias de produtos",
+   "tela": "PREÇOS SOBEM",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points at small upward arrows while looking at shelves. Large store shelves packed with products. Worried realization. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre perfeitamente a ideia e as regras: mascote correto, sem texto, com setas vermelhas apontando para cima nas prateleiras cheias de produtos."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Imagina que você vai ao mercado com R$ 100.",
+   "ideia": "Mascote feliz segurando um saquinho de pano com moedas em frente ao mercado sorridente",
+   "tela": "R$ 100",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot proudly holds up a cloth money bag in front of a simple smiling market facade. Large cloth money bag. Joyful excitement. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 9,
+    "motivo": "O mascote está correto e segura um saco de moedas em frente ao prédio, embora o mercado não esteja sorridente."
+   },
+   "notas": {
+    "a": 9
+   }
+  },
+  {
+   "fala": "Neste ano, esses R$ 100 enchem bem o carrinho.",
+   "ideia": "Mascote muito feliz empurrando um carrinho lotado de caixas, frutas e garrafas",
+   "tela": "CARRINHO CHEIO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot pushes a cart overflowing with boxes, fruits, and bottles, arms leaning forward. Large overflowing shopping cart. Ecstatic grin. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras do mascote e ilustra perfeitamente a ideia do carrinho cheio."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Você compra arroz, feijão, leite e ainda sobra um biscoito.",
+   "ideia": "Mascote mostrando arroz, feijão, leite e um pacote de biscoito empilhados",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot presents a tidy stack with one hand. Large simple stack: rice bag, beans bag, milk carton, and a cookie pack. Proud smile. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote é mostrado corretamente segurando uma pilha com caixa de leite e três pacotes de mantimentos, sem texto."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Um ano depois, você volta com os mesmos R$ 100.",
+   "ideia": "Mascote caminhando de volta ao mesmo mercado com o mesmo saquinho de pano",
+   "tela": "1 ANO DEPOIS",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot walks back, swinging a cloth money bag, facing a simple market facade. Large cloth money bag. Calm confidence. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "Ilustra bem a ação de caminhar ao mercado com o saquinho, mas o mascote está sem a gravata vermelha."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Só que agora os preços subiram em quase tudo.",
+   "ideia": "Mascote espantado vendo produtos flutuarem um pouco acima das prateleiras",
+   "tela": "PREÇOS SUBIRAM",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot throws arms up, startled, as products float slightly above shelves. Large store shelves. Shocked expression. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote possui todas as características corretas, está espantado e os produtos da prateleira superior estão visivelmente flutuando."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "E aí, a mesma compra agora custa R$ 110.",
+   "ideia": "Mascote assustado ao lado de uma pilha mais alta de moedas douradas",
+   "tela": "R$ 110",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot recoils beside a taller stack of gold coins. Large tall stack of gold coins. Alarmed disbelief. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "Atende perfeitamente a todas as regras, mostrando o mascote assustado ao lado de uma pilha alta de moedas sem texto."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Como você só tem R$ 100, tira itens do carrinho.",
+   "ideia": "Mascote triste retirando caixas do carrinho e devolvendo para a prateleira",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot sadly lifts boxes out of a cart and reaches toward a shelf. Large shopping cart. Downcast sadness. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "Atende perfeitamente a todas as regras e transmite a ideia de forma clara e precisa."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "É como se seu dinheiro encolhesse dentro de uma máquina de lavar.",
+   "ideia": "Mascote confuso olhando um saquinho de moedas encolhendo dentro de uma máquina de lavar",
+   "tela": "ENCOLHENDO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot scratches the chin, staring at a cloth money bag shrinking inside a washer. Large washing machine with tiny cloth bag inside. Baffled confusion. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras, mostrando o mascote correto e confuso com o saquinho de dinheiro dentro da máquina de lavar."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "O dinheiro vale menos enquanto as coisas ficam mais caras.",
+   "ideia": "Mascote em uma gangorra: moedas leves de um lado, compras pesadas do outro",
+   "tela": "VALE MENOS",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot balances on a seesaw. Large seesaw: light gold coins on one side, heavy groceries on the other. Worried frown. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem ilustra perfeitamente a fala e cumpre todas as regras: mascote correto, sem texto, na gangorra com moedas no lado alto (leve) e compras no lado baixo (pesado)."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Agora vem a parte perigosa: deixar dinheiro parado no cofrinho.",
+   "ideia": "Mascote em alerta ao lado de um cofrinho imóvel e um triângulo de atenção",
+   "tela": "CUIDADO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot raises a caution hand near a still piggy bank and a warning triangle. Large piggy bank beside a warning triangle. Alert, tense eyes. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem atende a todos os requisitos, representando claramente o mascote em alerta, o cofrinho e o triângulo de atenção sem violar regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Se você guarda R$ 100 debaixo do colchão por cinco anos, a quantidade não muda.",
+   "ideia": "Mascote dormindo de boa sobre um colchão com um saquinho de pano escondido embaixo",
+   "tela": "5 ANOS",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot naps peacefully on a mattress with a cloth money bag hidden underneath. Large mattress. Relaxed contentment. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem retrata perfeitamente o mascote dormindo no colchão com o saquinho de pano debaixo dele, respeitando todas as regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Só que os preços continuam subindo, ano após ano.",
+   "ideia": "Mascote vendo uma maçã crescer até ficar bem maior que ele",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot leans back watching an apple grow larger and larger. Large oversized apple towering beside. Startled awe. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem ilustra com clareza o mascote observando a maçã crescer em sequência até ficar maior do que ele, seguindo todas as regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Quando você pega os R$ 100, enche bem menos o carrinho.",
+   "ideia": "Mascote decepcionado encarando um carrinho com poucos itens espaçados",
+   "tela": "CARRINHO MENOR",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot stares at a cart with few spaced items, one hand on hip. Large sparse shopping cart. Disappointed grimace. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "A imagem cumpre os requisitos do mascote e ilustra com clareza a decepção diante do carrinho com poucos itens."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Você não perdeu moedas, mas perdeu poder de compra.",
+   "ideia": "Mascote coçando a cabeça com o saquinho de moedas intacto na outra mão",
+   "tela": "PODER DE COMPRA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot scratches the head while holding an intact cloth money bag in the other hand. Large cloth money bag. Puzzled frustration. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "O mascote apresenta os elementos visuais corretos, coçando a cabeça junto ao saco de dinheiro intacto, ilustrando bem a confusão sobre o poder de compra."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "O nome chique disso é inflação.",
+   "ideia": "Mascote de cartola e monóculo fazendo pose elegante",
+   "tela": "INFLAÇÃO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot strikes an elegant pose with one hand up, wearing a big top hat and monocle. Large oversized top hat. Snobbish smug look. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote está de cartola, monóculo e fazendo uma pose elegante, atendendo a todos os requisitos."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "E o índice mais usado para medir é o IPCA.",
+   "ideia": "Termômetro grande encostado em um carrinho de compras com mercúrio vermelho alto",
+   "tela": "IPCA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points to a thermometer touching a shopping cart, mercury high. Large thermometer leaning on a cart. Serious focus. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: o mascote está correto, não há texto e o termômetro grande com mercúrio alto está no carrinho de compras, ilustrando perfeitamente a fala."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Então guarda a regra: dinheiro parado empobrece em silêncio.",
+   "ideia": "Mascote segurando um cofrinho de porco triste que parece murchar devagar",
+   "tela": "DINHEIRO PARADO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot holds a piggy bank that slowly sags in his hands. Large deflating piggy bank. Somber concern. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "O mascote segue as regras visuais e o cofrinho murcho expressa bem a ideia da perda financeira."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Seja bem-vindo ao mundo real.",
+   "ideia": "Mascote cansado acenando com uma mão, fundo branco",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot waves tiredly with one hand, shoulders slumped. No object. Weary exhaustion. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: o mascote está cansado, acenando com uma mão em fundo branco e expressa perfeitamente a fala."
+   },
+   "notas": {
+    "a": 10
+   }
+  }
+ ],
+ "ajustes": [
+  "Retirei o termo técnico do início e apresentei no fim.",
+  "Corrigi a parte dos cinco anos, sem prometer metade do carrinho.",
+  "Acrescentei o IPCA como medida usada no Brasil.",
+  "Melhorei conectores e deixei a linguagem mais simples.",
+  "Garanti até 20 palavras por fala e 20 cenas.",
+  "Ajustei telas e ideias para ficarem desenháveis sem depender de texto."
+ ]
+}
