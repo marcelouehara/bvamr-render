@@ -16,7 +16,7 @@ Temas da mesma família (cartão, juros, trabalho) podem virar um vídeo longo n
 | 4 | Dinheiro | Por que o rotativo do cartão é tão caro? | pagar o mínimo é emprestar o resto ao banco pelo juro mais alto | Banco Central (cartão, Lei 14.690/2023) | feito 18/11 |
 | 5 | Dinheiro | O que é inflação? | o mesmo R$ 100 enche menos o carrinho a cada ano | Banco Central, IBGE (IPCA) | feito 19/11 |
 | 6 | Direitos | Compra chegou com defeito: e agora? | 30 dias para a loja consertar, senão troca, devolve ou abate | CDC, art. 18 | feito 20/11 |
-| 7 | Ciência | Por que a gente boceja? | o que se sabe e o mistério do bocejo contagioso | Divulgação científica de universidades | fila |
+| 7 | Ciência | Por que a gente boceja? | o que se sabe e o mistério do bocejo contagioso | Divulgação científica de universidades | feito 21/11 |
 | 8 | Dinheiro | O que é a Selic? | o "preço do dinheiro" que puxa todos os outros juros | Banco Central (Copom) | fila |
 | 9 | Direitos | Pagou cobrança indevida? Você recebe em dobro | cobraram R$ 100 a mais, devolvem R$ 200 | CDC, art. 42 | fila |
 | 10 | Dinheiro | O que é score de crédito? | a "nota de bom pagador" e o que realmente sobe | Banco Central (cadastro positivo) | fila |

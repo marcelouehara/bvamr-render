@@ -1,0 +1,244 @@
+{
+ "titulo": "Por que a gente boceja?",
+ "descricao": "Descubra por que o seu corpo puxa aquele ar profundo quando você está cansado. Entenda a ciência por trás do bocejo e o mistério de ele ser contagiante.",
+ "hashtags": [
+  "bocejo",
+  "ciência",
+  "corpo humano",
+  "curiosidades",
+  "cérebro",
+  "bem vindo ao mundo real"
+ ],
+ "fontes": [
+  {
+   "nome": "Invivo Fiocruz",
+   "url": "https://invivo.fiocruz.br/saude/o-que-o-bocejo-indica/"
+  },
+  {
+   "nome": "Ciência Hoje",
+   "url": "https://cienciahoje.org.br/artigo/por-que-bocejamos/"
+  }
+ ],
+ "cenas": [
+  {
+   "fala": "Por que você boceja sem parar quando está com sono?",
+   "ideia": "Mascote adulto careca, gravata vermelha, bocejando bem aberto, olhos fechados",
+   "tela": "BOCEJO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot tilts back and stretches arms loosely while yawning extremely wide, eyes squeezed shut. A giant open mouth dominates the frame. Exaggerated sleepy face. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem retrata perfeitamente o mascote com gravata vermelha bocejando bem aberto e com os olhos fechados, atendendo a todas as regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "A pista principal: resfriar a cabeça que esquentou com o esforço.",
+   "ideia": "Mascote coloca bolsa de gelo sobre a cabeça, expressão de alívio",
+   "tela": "ESFRIAR CABEÇA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot raises one hand to hold a large ice pack squarely on the head, the other hand supporting the chin. Exaggerated relieved face with eyelids heavy. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem mostra perfeitamente o mascote com bolsa de gelo na cabeça e expressão de alívio, seguindo todas as regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Só que tem um detalhe que quase ninguém percebe.",
+   "ideia": "Mascote com lupa examinando a própria cabeça, sobrancelha arqueada",
+   "tela": "DETALHE",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot leans forward, one hand on hip, the other holding a big magnifying glass inspecting the top of the head. Exaggerated curious face with one eyebrow arched. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "A imagem ilustra claramente o mascote usando a lupa para examinar o detalhe do curativo em sua cabeça, atendendo aos requisitos e à fala."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Imagina seu cérebro como um computador trabalhando sem pausa, fervendo sob pressão.",
+   "ideia": "Mascote observa computador antigo com ventoinha rodando e luzes piscando",
+   "tela": "CÉREBRO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points with one hand toward a large old desktop computer with a visible spinning fan and simple blinking indicator lights. Exaggerated explaining face, mouth open. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: o mascote correto observa o computador antigo com ventoinha rodando na tela e luzes piscando, sem qualquer texto."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Quando você cansa, ele esquenta e fica lento, meio travado.",
+   "ideia": "Cabeça do mascote avermelhada com ondas de calor subindo",
+   "tela": "ESQUENTA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot clutches the sides of the head with both hands; the head area is reddened with big wavy heat lines rising. Exaggerated tired, bogged-down face. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras, mostrando a cabeça avermelhada do mascote e as ondas de calor subindo perfeitamente."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Então o corpo aciona um ventilador interno para refrescar e voltar ao ritmo.",
+   "ideia": "Mascote liga ventilador de mesa apontado para a cabeça",
+   "tela": "REFRESCAR",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot bends to switch on a large desk fan aimed straight at the head, one finger pressing the button. Exaggerated hopeful, cooling-off face. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "A imagem atende a todas as regras do mascote e ilustra claramente a ação de ligar o ventilador virado para a cabeça."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "No bocejo, boca abre, ar entra, sangue circula na cabeça e músculos esticam.",
+   "ideia": "Mascote bocejando; flechas azuis entram pela boca; setas circulam a cabeça",
+   "tela": "BOCA E AR",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot stretches arms and yawns hugely; big blue arrows flow into the open mouth and bold curved arrows circle the head. Exaggerated wide-mouthed yawn face. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "A imagem mostra o mascote bocejando com setas azuis entrando na boca e circulando a cabeça, atendendo bem aos requisitos."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Isso ajuda a baixar um pouquinho a temperatura lá dentro, como abrir a janela.",
+   "ideia": "Coroa de cubos de gelo derretendo lentamente ao redor da cabeça",
+   "tela": "ESFRIAR",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot tilts head back slightly under a large crown of ice cubes around the head, droplets falling as they slowly melt. Exaggerated soothed, cooling face. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem mostra perfeitamente a coroa de cubos de gelo derretendo ao redor da cabeça do mascote, seguindo todas as regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Agora vem a parte misteriosa.",
+   "ideia": "Mascote segura ponto de interrogação gigante, olhos arregalados",
+   "tela": "MISTÉRIO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot hugs a giant question mark against the torso with both hands. Exaggerated wide-eyed astonished face. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "O mascote atende aos requisitos visuais, segurando o ponto de interrogação gigante com olhos arregalados e alinhado à fala sobre mistério."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Ver alguém bocejando dá vontade de bocejar também, quase automático.",
+   "ideia": "Amigo ao lado boceja; mascote começa a bocejar também",
+   "tela": "CONTÁGIO",
+   "prompt": "Vertical 9:16 composition, exactly one mascot plus one faceless stick figure. The stick figure at side yawns wide; the mascot turns toward them and starts yawning too, one hand covering mouth. Exaggerated contagious-yawn face. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem mostra o mascote e o amigo boneco-palito bocejando juntos, retratando com clareza e fidelidade a fala e a ideia."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Seu cérebro espelha o outro, como quem diz: estamos juntos, pode relaxar.",
+   "ideia": "Mascote e amigo imitam o mesmo passo, andando em sincronia",
+   "tela": "SINTONIA",
+   "prompt": "Vertical 9:16 composition, exactly one mascot plus one faceless stick figure. Both walk in mirrored poses, arms and legs matching in sync, the mascot glancing sideways at the friend. Exaggerated pleased, synchronized face. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "B",
+    "nota": 9,
+    "motivo": "O mascote e o amigo boneco-palito estão caminhando lado a lado em sincronia, retratando bem a ideia de espelhamento."
+   },
+   "notas": {
+    "a": 3,
+    "b": 9
+   }
+  },
+  {
+   "fala": "A ciência ainda investiga, mas essa explicação tem bons indícios em humanos e bichos.",
+   "ideia": "Mascote de jaleco observa ilustrações simples de cérebros e termômetros sem números",
+   "tela": "INDÍCIOS",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot in a lab coat gestures to a large simple board showing basic drawings of brains and thermometers without numbers. Exaggerated thoughtful, analytical face. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 8,
+    "motivo": "Exibe o mascote apontando para ilustrações de cérebros e termômetros sem números, embora esteja de camisa em vez de jaleco."
+   },
+   "notas": {
+    "a": 8
+   }
+  },
+  {
+   "fala": "O nome chique disso é termorregulação cerebral.",
+   "ideia": "Mascote de cartola e monóculo segura um cérebro com floquinhos de neve",
+   "tela": "TERMORREGULAÇÃO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot, wearing a top hat and monocle, presents a large brain in one hand with small snowflakes on it, the other hand raised elegantly. Exaggerated smug, posh face. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem mostra o mascote com cartola e monóculo segurando um cérebro com flocos de neve, ilustrando perfeitamente a fala e a ideia."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Se isso já te pegou, comenta BOCEJO aqui embaixo.",
+   "ideia": "Mascote aponta para baixo com as duas mãos, piscando",
+   "tela": "COMENTA BOCEJO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot leans forward and points both hands straight down while giving an exaggerated wink. No additional objects. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "B",
+    "nota": 7,
+    "motivo": "O mascote aponta para baixo com as duas mãos, mas não está piscando como na ideia."
+   },
+   "notas": {
+    "a": 5,
+    "b": 7
+   }
+  },
+  {
+   "fala": "Seja bem-vindo ao mundo real.",
+   "ideia": "Mascote acena levemente, fundo claro",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot gives a gentle side wave with one hand at shoulder height, body slightly turned. Exaggerated warm, welcoming smile. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 9,
+    "motivo": "O mascote possui todas as características exigidas, acena levemente em fundo claro e transmite a ideia de boas-vindas."
+   },
+   "notas": {
+    "a": 9
+   }
+  }
+ ],
+ "ajustes": [
+  "Simplifiquei a linguagem e conectei as frases com ganchos conversacionais.",
+  "Troquei certezas por formulações cautelosas e removi número não comprovado.",
+  "Reescrevi ideias visuais para não depender de texto em cena.",
+  "Ajustei telas para 0 a 3 palavras, repetindo palavras-chave.",
+  "Mantive fontes e hashtags; corrigi alinhamento fala-imagem e ritmo.",
+  "Adequação ao tamanho: 15 cenas, 154 palavras, falas até 20 palavras."
+ ]
+}
