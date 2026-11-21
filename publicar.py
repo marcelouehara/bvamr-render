@@ -1,7 +1,7 @@
 """Agenda o Short no Buffer (YouTube e TikTok, os canais conectados na organização) e registra o histórico.
 
 Uso: python3 publicar.py PASTA URL_DO_VIDEO
-Agenda para hoje às 20h30 de Brasília; se já passou (ou falta pouco), publica na hora.
+Agenda para hoje às 11h de Brasília; se já passou (ou falta pouco), publica na hora.
 Depois marca o tema como feito no temas.md e acrescenta uma linha no historico.csv.
 Ambiente: BUFFER_API_KEY.
 """
@@ -16,7 +16,7 @@ from datetime import datetime, timedelta, timezone
 AQUI = os.path.dirname(os.path.abspath(__file__))
 ORG = "6af877f811bd01dafc36ae1d"
 BRT = timezone(timedelta(hours=-3))
-HORA = (20, 30)
+HORA = (11, 0)
 
 
 def buffer(query):

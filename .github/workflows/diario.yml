@@ -1,10 +1,10 @@
 name: short-diario
 
-# Todo dia às 18h30 de Brasília (21:30 UTC) gera o Short e agenda no Buffer para 20h30.
-# O cron do GitHub pode atrasar; com 2h de folga, o vídeo fica pronto antes do horário.
+# Todo dia às 5h de Brasília (8:00 UTC) gera o Short e agenda no Buffer para 11h.
+# O cron do GitHub pode atrasar (já atrasou mais de 5h); com 6h de folga, o vídeo fica pronto antes do horário.
 on:
   schedule:
-    - cron: "30 21 * * *"
+    - cron: "0 8 * * *"
   workflow_dispatch:
     inputs:
       publicar:
@@ -83,7 +83,7 @@ jobs:
           done
           echo "Pages nao publicou o video em 10 min"; exit 1
 
-      - name: Agendar no Buffer (YouTube e TikTok, 20h30)
+      - name: Agendar no Buffer (YouTube e TikTok, 11h)
         if: github.event_name == 'schedule' || inputs.publicar == 'true'
         run: python3 publicar.py out "${{ steps.pub.outputs.url }}" | tee out/buffer.json
 
@@ -107,7 +107,7 @@ jobs:
             out/img
           retention-days: 7
 
-      # Aviso no Slack (via n8n): roteiro do dia para ler antes das 20h30, ou o erro com o link da execucao
+      # Aviso no Slack (via n8n): roteiro do dia para ler antes das 11h, ou o erro com o link da execucao
       - name: Avisar no Slack
         if: always()
         env:
@@ -122,7 +122,7 @@ jobs:
           if st == "success":
               r = json.load(open("out/roteiro.json"))
               falas = " ".join(c["fala"] for c in r["cenas"])
-              quando = "agendado para 20h30 no YouTube e no TikTok" if os.environ["PUBLICAR"] == "true" else "TESTE: nao foi publicado"
+              quando = "agendado para 11h no YouTube e no TikTok" if os.environ["PUBLICAR"] == "true" else "TESTE: nao foi publicado"
               txt = (f":clapper: *Bem-vindo ao Mundo Real*: {r['titulo']}\n{quando}\nVideo: {os.environ['VIDEO']}\n"
                      f"{len(r['cenas'])} cenas, {len(falas.split())} palavras\n\n>{falas}")
           else:

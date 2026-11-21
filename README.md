@@ -1,6 +1,6 @@
 # bvamr-render
 
-Short diário do canal "Bem-vindo ao Mundo Real" (GitHub Actions, todo dia 18h30 BRT, agenda no Buffer 20h30).
+Short diário do canal "Bem-vindo ao Mundo Real" (GitHub Actions, todo dia 5h BRT, agenda no Buffer 11h).
 
 1. `escrever_roteiro.py`: próximo tema `fila` do `temas.md`; Gemini escreve o storyboard (fala, ideia da imagem, texto da tela) com busca no Google, gpt-5 revisa
 2. `gerar_cenas.py`: gpt-5 escreve o prompt de cada imagem, Gemini revisa; Flux 3 Klein (mascote de referência) gera 1 imagem por cena, Gemini confere e refaz as reprovadas; voz do Fish frase por frase
