@@ -1,0 +1,273 @@
+{
+ "titulo": "Compra chegou com defeito: e agora?",
+ "descricao": "Descubra o que a lei garante quando um produto comprado chega com defeito. Entenda o prazo de conserto da loja e quais são os seus direitos se o problema não for resolvido a tempo.",
+ "hashtags": [
+  "direitodoconsumidor",
+  "compras",
+  "cdc",
+  "defeito",
+  "educacaofinanceira",
+  "bemvindoaomundoreal"
+ ],
+ "fontes": [
+  {
+   "nome": "Código de Defesa do Consumidor - Artigo 18 (Lei nº 8.078/1990)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+  }
+ ],
+ "cenas": [
+  {
+   "fala": "Sua compra chegou estragada e você não sabe o que fazer?",
+   "ideia": "Mascote triste segurando uma caixa rasgada com uma mola saindo, expressão de dúvida",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot slumps, holding a torn box with a spring popping out, one hand scratching head in confusion. A large ripped box as the main object. Exaggerated sad, doubtful face with big teary eyes and furrowed brows. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem representa perfeitamente o mascote triste e confuso ao lado da caixa rasgada com a mola saindo."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Calma: a lei dá um prazo para consertar.",
+   "ideia": "Mascote apontando para uma chave de fenda ao lado de um relógio grande",
+   "tela": "PRAZO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points with one hand to a big screwdriver beside a large clock, the other hand on hip. A large screwdriver and a big round clock as the main objects. Calm, reassuring smile with raised eyebrow. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "B",
+    "nota": 8,
+    "motivo": "O mascote aponta para a chave de fenda ao lado do relógio, transmitindo bem as ideias de conserto e prazo."
+   },
+   "notas": {
+    "a": 4,
+    "b": 8
+   }
+  },
+  {
+   "fala": "Tem um detalhe de 30 dias que muita gente esquece.",
+   "ideia": "Mascote segurando um calendário grande, mostrando impaciência",
+   "tela": "30 DIAS",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot grips a huge calendar with both hands, tapping foot impatiently. A large calendar as the main object. Exaggerated impatient grimace with narrowed eyes and puffed cheeks. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "O mascote segue todas as regras visuais, segura o calendário sem textos e demonstra a impaciência solicitada."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Imagina que você comprou um fone de R$ 100 quebrado.",
+   "ideia": "Mascote segurando um fone partido; moeda grande ao lado",
+   "tela": "R$ 100",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot holds a broken headphone set with one hand, gesturing to a big gold coin beside it. A large cracked headphone and one big gold coin as the main objects. Shocked, annoyed face with wide eyes and clenched teeth. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 8,
+    "motivo": "O mascote e a moeda grande estão perfeitos, mas o fone não aparenta estar nitidamente partido."
+   },
+   "notas": {
+    "a": 8
+   }
+  },
+  {
+   "fala": "Você avisa a loja. Ela tem até 30 dias para arrumar.",
+   "ideia": "Mascote entregando a caixa para um prédio-loja com braços recebendo",
+   "tela": "30 DIAS",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot extends a box forward toward a simple store building with big open arms ready to receive. A large store-shaped block with arms and the box as the main objects. Focused, hopeful expression with raised brows. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "B",
+    "nota": 10,
+    "motivo": "A imagem mostra perfeitamente o mascote entregando a caixa para a loja com braços recebendo, sem texto e conforme as regras."
+   },
+   "notas": {
+    "a": 4,
+    "b": 10
+   }
+  },
+  {
+   "fala": "Se arrumar dentro do prazo e voltar funcionando, beleza.",
+   "ideia": "Mascote sorrindo usando o fone consertado, notas musicais no ar",
+   "tela": "FUNCIONANDO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot wears the fixed headphones, both hands giving thumbs up while music notes float around. A large repaired headphone as the main object. Beaming joyful smile, eyes closed in relief. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: o mascote está correto, usando o fone consertado com notas musicais e fazendo joinha ('beleza')."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Só que tem um pulo do gato.",
+   "ideia": "Mascote surpreso com um triângulo de alerta ao lado",
+   "tela": "SURPRESA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot jolts back with hands spread, pointing at a big warning triangle beside them. A large alert triangle as the main object. Exaggerated surprised face with popped eyes and open mouth. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras, mostrando o mascote correto e surpreso ao lado do triângulo de alerta."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Passou dos 30 dias sem solução, o jogo muda.",
+   "ideia": "Mascote batendo o pé ao lado de um relógio marcando tempo passando",
+   "tela": "30 DIAS",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot crosses arms and taps foot next to a large clock showing time passing. A big round clock as the main object. Exasperated, fed-up face with rolling eyes. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "O mascote atende às regras visuais, batendo o pé impaciente ao lado do relógio, transmitindo bem a ideia de tempo passando."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "A partir daí, você escolhe entre três caminhos.",
+   "ideia": "No chão, três trilhas; mascote apontando para elas",
+   "tela": "3 CAMINHOS",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot stands at a fork, one hand pointing to three large ground trails splitting ahead. Three wide path trails on the floor as the main object. Decisive, focused expression with furrowed brows. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem mostra o mascote correto apontando para três trilhas coloridas no chão, representando perfeitamente a fala e a ideia de escolher três caminhos."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Troca por outro igual, novinho.",
+   "ideia": "Mascote recebendo uma caixa nova reluzente de fone",
+   "tela": "TROCA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot reaches out with both hands to receive a shiny new headphone box. A large gleaming sealed box with a simple headphone icon shape as the main object. Overjoyed grin with sparkling eyes. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "C",
+    "nota": 7,
+    "motivo": "A imagem mostra o mascote com a caixa nova e reluzente de fone, atendendo a todas as regras."
+   },
+   "notas": {
+    "a": 4,
+    "b": 5,
+    "c": 7
+   }
+  },
+  {
+   "fala": "Ou recebe seu dinheiro de volta, na hora.",
+   "ideia": "Mascote pegando um saquinho de dinheiro das mãos da loja",
+   "tela": "REEMBOLSO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot takes a cloth money bag from the outstretched hands of a simple store building block. A large cloth money bag and store block as the main objects. Satisfied, relieved smile with bright eyes. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem ilustra perfeitamente a ideia do mascote recebendo o saco de dinheiro das mãos da loja, respeitando todas as regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Ou fica com ele e ganha desconto no preço.",
+   "ideia": "Mascote segurando o fone em uma mão e moedas na outra",
+   "tela": "DESCONTO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot lifts a headphone in one hand and a pile of gold coins in the other, arms wide. A large headphone and large stack of gold coins as the main objects. Confident grin with raised eyebrow. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "Atende perfeitamente a todas as regras, mostrando o mascote com o fone e as moedas com clareza."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Se for item essencial, pode escolher já, sem esperar.",
+   "ideia": "Mascote abraçando uma geladeira desligada, mostrando urgência",
+   "tela": "ESSENCIAL",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot hugs a big unplugged refrigerator tightly, one foot lifted as if rushing. A large refrigerator as the main object. Urgent, anxious face with wide eyes and sweat drop. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: mascote correto, sem textos, abraçando a geladeira desligada com tom de urgência."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "O nome chique disso é artigo 18 do código do consumidor.",
+   "ideia": "Mascote de cartola e monóculo segurando um livro grosso",
+   "tela": "ARTIGO 18",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot wears a top hat and monocle, holding a thick book with both hands, chest puffed. A large thick book as the main object. Proud, scholarly smirk with raised chin. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre perfeitamente a ideia, mostrando o mascote com cartola, monóculo e segurando um livro grosso (representando o Código do Consumidor), sem conter texto."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Guarda a regra: 30 dias para arrumar; depois, a escolha é sua.",
+   "ideia": "Mascote segurando uma balança: de um lado chave de fenda, do outro uma mão indicando",
+   "tela": "SUA ESCOLHA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot holds a big balance scale: one side with a large screwdriver, the other side a pointing hand icon. A large balance scale as the main object. Thoughtful, decisive face with narrowed eyes. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "O mascote segue o padrão e a balança ilustra bem a chave de fenda e a mão indicando, sem presenças de texto."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Comenta DEFEITO aqui embaixo.",
+   "ideia": "Mascote apontando para baixo com as duas mãos",
+   "tela": "DEFEITO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot leans forward, pointing straight down with both hands. No additional objects. Exaggerated inviting grin with excited eyes. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "O mascote segue o modelo padrão e aponta claramente para baixo com ambas as mãos, sem textos."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Seja bem-vindo ao mundo real.",
+   "ideia": "Mascote cansado acenando com uma mão, fundo branco",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot waves weakly with one hand, shoulders slumped. No additional objects. Tired, worn-out face with droopy eyes and small smile. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "prompt_original": "Vertical 9:16 composition, exactly one character. The mascot waves weakly with one hand, shoulders slumped. No additional objects. Tired, worn-out face with droopy eyes and small smile. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "revisao": "A ideia exigia fundo branco, mas o prompt especificava fundo azul claro.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem atende perfeitamente à ideia, mostrando o mascote com expressão de cansado, acenando com uma mão em fundo branco."
+   },
+   "notas": {
+    "a": 10
+   }
+  }
+ ],
+ "ajustes": [
+  "Simplifiquei a linguagem e deixei em tom de conversa.",
+  "Mantive a regra dos 30 dias e incluí exceção para item essencial.",
+  "Removi analogia da oficina para ganhar foco e clareza.",
+  "Reorganizei a surpresa para o meio do vídeo.",
+  "Alinhei telas com palavras-chave curtas e sem depender de texto na imagem.",
+  "Ajustei tamanho: 17 cenas, 146 palavras; todas as falas até 20 palavras.",
+  "Convite final para comentar DEFEITO e frase final padronizada."
+ ]
+}
