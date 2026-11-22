@@ -1,0 +1,245 @@
+{
+ "titulo": "O que é a Selic?",
+ "descricao": "Entenda o que é a taxa Selic de um jeito simples e como ela afeta o seu bolso no dia a dia. Descubra por que a taxa básica de juros muda o preço de tudo ao seu redor.",
+ "hashtags": [
+  "selic",
+  "taxaselic",
+  "bancocentral",
+  "juros",
+  "educacaofinanceira",
+  "economia"
+ ],
+ "fontes": [
+  {
+   "nome": "Banco Central do Brasil - Taxa Selic",
+   "url": "https://www.bcb.gov.br/controleinflacao/taxaselic"
+  }
+ ],
+ "cenas": [
+  {
+   "fala": "Selic é o aluguel do dinheiro no Brasil.",
+   "ideia": "Mascote com gravata vermelha segurando uma chave de aluguel e uma moeda grande",
+   "tela": "SELIC",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot wearing a red tie raises a rental key in one hand and steadies a huge gold coin with the other, leaning forward. Exaggerated proud teaching grin. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "prompt_original": "Vertical 9:16 composition, exactly one character. The mascot raises a rental key in one hand and steadies a huge gold coin with the other, leaning forward. Exaggerated proud teaching grin, bright eyes. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "revisao": "Faltou incluir a gravata vermelha descrita na ideia.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "Mascote correto segurando a chave e apoiado na moeda grande, atendendo a todas as regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Só que quem decide esse preço é o Banco Central.",
+   "ideia": "Mascote apontando para um prédio institucional com bandeira do Brasil no topo",
+   "tela": "BANCO CENTRAL",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points firmly with one hand toward a large institutional building topped by a simple Brazilian flag, other hand on hip. Exaggerated confident, decisive look. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote está correto e apontando para o prédio institucional com a bandeira do Brasil, sem textos e atendendo a todas as regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Pensa nele como o árbitro que apita o jogo do dinheiro.",
+   "ideia": "Prédio do Banco Central vestindo camisa de árbitro e apitando",
+   "tela": "ÁRBITRO",
+   "prompt": "Vertical 9:16 composition, exactly one character. A Central Bank building wears a black‑and‑white referee shirt and blows a whistle with a sharp gesture. Exaggerated stern, no‑nonsense vibe. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 9,
+    "motivo": "O mascote aparece vestido de árbitro, apitando um apito e junto ao prédio de um banco, ilustrando com clareza a metáfora da fala."
+   },
+   "notas": {
+    "a": 9
+   }
+  },
+  {
+   "fala": "Ele acerta quanto custa pegar dinheiro rapidinho entre os bancos.",
+   "ideia": "Dois prédios-banco trocando uma maleta com símbolo de cifrão",
+   "tela": "EMPRÉSTIMO",
+   "prompt": "Vertical 9:16 composition, exactly two simple bank buildings. Two simple bank buildings pass a giant plain briefcase between them, stretching out arms. Exaggerated urgent, transactional energy. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "prompt_original": "Vertical 9:16 composition, exactly one character. Two simple bank buildings pass a huge briefcase with a big currency symbol between them. Exaggerated urgent, transactional energy. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "revisao": "Contagem errada de personagens (diz 1, mas são 2 prédios) e uso de símbolo financeiro/cifrão (proibido pela regra 6).",
+   "checagem": {
+    "escolha": "NENHUMA",
+    "nota": 5,
+    "motivo": "A imagem mostra os dois prédios segurando a maleta, mas falta o símbolo de cifrão nela."
+   },
+   "notas": {
+    "a": 3,
+    "b": 3,
+    "c": 5
+   }
+  },
+  {
+   "fala": "Quando esse custo sobe, os bancos repassam e tudo encarece.",
+   "ideia": "Etiqueta de preço com seta vermelha subindo e carrinho de mercado pesado",
+   "tela": "MAIS CARO",
+   "prompt": "Vertical 9:16 composition, exactly one character. A giant price tag shows a bold red arrow pointing up beside an overloaded shopping cart straining under weight. Exaggerated heavy, costly feel. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 9,
+    "motivo": "A imagem cumpre as regras do mascote, não tem texto e mostra o carrinho cheio com a seta vermelha para cima indicando encarecimento."
+   },
+   "notas": {
+    "a": 9
+   }
+  },
+  {
+   "fala": "Quando cai, o crédito fica mais barato e a economia respira.",
+   "ideia": "Mascote aliviado abraçando um cofrinho com setas verdes para baixo ao redor",
+   "tela": "MAIS BARATO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot hugs a big piggy bank while green arrows point downward around it, shoulders dropping. Exaggerated relieved smile with closed eyes. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem atende a todas as regras: mascote correto, expressão de alívio abraçando o cofrinho e setas verdes apontando para baixo."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Então a Selic puxa cartão e casa, e respinga no resto.",
+   "ideia": "Mascote puxando uma corda ligada a um cartão e uma casinha",
+   "tela": "PUXA TUDO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot leans back, pulling a thick rope tied to an oversized credit card and a small house sliding toward them. Exaggerated strained focus, tongue out. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem ilustra perfeitamente o mascote puxando uma corda ligada a um cartão de crédito e a uma casinha, seguindo todas as regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Agora, o susto: para segurar preços, eles podem subir bem a Selic.",
+   "ideia": "Sirene vermelha acesa e um botão sendo girado para cima; mascote assustado",
+   "tela": "SUSTO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot recoils wide‑eyed while turning a big knob upward next to a flashing red siren. Exaggerated startled, anxious face. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 8,
+    "motivo": "O mascote assustado e a sirene vermelha acesa aparecem corretamente, mas o botão sendo girado para cima não está claramente representado."
+   },
+   "notas": {
+    "a": 8
+   }
+  },
+  {
+   "fala": "Aí parcela cresce, empréstimo trava e muita compra é adiada.",
+   "ideia": "Cadeado grande prendendo um cartão e a chave de um carro",
+   "tela": "CRÉDITO TRAVADO",
+   "prompt": "Vertical 9:16 composition, exactly one character. A massive padlock clamps over a large credit card and a car key, tightly bound together. Exaggerated locked, stuck feeling. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: o mascote correto aparece no topo e o cadeado grande prende claramente o cartão de crédito e a chave de carro, ilustrando bem a fala."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Com menos gente comprando, as lojas baixam os preços para vender.",
+   "ideia": "Vendedor baixando uma etiqueta de preço com uma tesoura",
+   "tela": "PREÇO CAI",
+   "prompt": "Vertical 9:16 composition, exactly one character. A simple faceless stick figure lowers a huge price tag by snipping its string with big scissors. Exaggerated determined, energetic motion. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote correto usa uma tesoura para cortar/baixar a etiqueta de preço, sem texto e de forma clara."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Depois, com preços mais calmos, a Selic tende a descer.",
+   "ideia": "Botão de nível girando para baixo enquanto um calendário vira a página",
+   "tela": "SELIC CAI",
+   "prompt": "Vertical 9:16 composition, exactly one character. A large level knob turns downward while a big calendar flips to the next page. Exaggerated easing, calming vibe. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 9,
+    "motivo": "A imagem contém o mascote correto, o botão de nível e o calendário virando a página, sem qualquer texto."
+   },
+   "notas": {
+    "a": 9
+   }
+  },
+  {
+   "fala": "O nome chique disso é taxa básica de juros.",
+   "ideia": "Mascote de cartola e monóculo fazendo pose esnobe",
+   "tela": "TAXA BÁSICA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot tilts chin up, wearing a top hat and monocle, one hand posed on chest. Exaggerated snobby, posh smirk. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem mostra o mascote com cartola, monóculo e pose esnobe, transmitindo perfeitamente a ideia de algo 'chique'."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Regra simples: Selic alta segura a inflação, mas trava o crédito.",
+   "ideia": "Mascote segurando balança com cofrinho de um lado e bloco de gelo do outro",
+   "tela": "INFLAÇÃO CRÉDITO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot holds a huge balance scale: a big piggy bank on one side and a solid ice block on the other. Exaggerated serious, weighing expression. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "Atende perfeitamente a todas as regras: mascote correto, sem texto e com a balança, cofrinho e bloco de gelo visíveis."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Se isso já te pegou, comenta JUROS.",
+   "ideia": "Mascote apontando para baixo com as duas mãos e piscando",
+   "tela": "COMENTA JUROS",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot leans forward pointing both hands straight down while winking. Exaggerated playful, calling‑to‑action grin. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote está perfeitamente ilustrado piscando o olho e apontando para baixo com ambas as mãos, sem texto."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Seja bem-vindo ao mundo real.",
+   "ideia": "Mascote cansado acenando com uma mão, fundo branco",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot slumps a bit and waves with one hand, shoulders drooped. Exaggerated tired but welcoming face. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: o mascote está cansado, acenando com uma mão, em fundo branco e sem textos."
+   },
+   "notas": {
+    "a": 10
+   }
+  }
+ ],
+ "ajustes": [
+  "Simplifiquei a linguagem e deixei a explicação conversada.",
+  "Troquei a metáfora de fábrica por árbitro, mais precisa e clara.",
+  "Removi números arbitrários e exemplos em reais.",
+  "Reorganizei o suspense para o meio do vídeo.",
+  "Ajustei as ideias para não depender de texto na imagem.",
+  "Mantive 15 cenas, 144 palavras, falas com até 20 palavras.",
+  "Penúltima fala convida a comentar uma palavra: JUROS."
+ ]
+}
