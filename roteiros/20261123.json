@@ -1,0 +1,268 @@
+{
+ "titulo": "Pagou cobrança indevida? Você recebe em dobro",
+ "descricao": "Se você pagou uma cobrança indevida por engano, a lei garante o direito de receber o valor cobrado a mais em dobro. Descubra como funciona a repetição do indébito prevista no Código de Defesa do Consumidor de forma simples.",
+ "hashtags": [
+  "direitodoconsumidor",
+  "cobrançaindevida",
+  "cdc",
+  "direitos",
+  "educaçãofinanceira",
+  "fiqueatento"
+ ],
+ "fontes": [
+  {
+   "nome": "Lei nº 8.078/1990 - Código de Defesa do Consumidor, Artigo 42 (Planalto)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+  }
+ ],
+ "cenas": [
+  {
+   "fala": "Você já pagou uma conta cobrada por engano?",
+   "ideia": "Mascote confuso segurando uma conta e coçando a cabeça",
+   "tela": "ENGANO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot holds a large simple bill in one hand and scratches its head with the other. Exaggerated confused face. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "O mascote segue os traços exigidos, demonstra confusão ao segurar a conta e coçar a cabeça, sem conter texto na imagem."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Tem jeito: devolução.",
+   "ideia": "Mascote apontando para um cofrinho aberto com moedas voltando",
+   "tela": "DEVOLUÇÃO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points with one hand to a large open piggy bank as gold coins arc back into it. Exaggerated hopeful face. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "Ilustra com clareza o mascote com o cofrinho aberto e moedas voltando, representando a devolução sem violação das regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Só que tem um detalhe que quase ninguém percebe.",
+   "ideia": "Mascote fazendo sinal de segredo com um sorriso",
+   "tela": "DETALHE",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot raises one finger to its lips in a shushing pose, the finger exaggeratedly large. Big mischievous smile. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote cumpre todas as regras visuais, está sorrindo e fazendo o sinal de segredo com o dedo na boca perfeitamente."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Imagina sua conta de telefone veio R$ 100 mais cara.",
+   "ideia": "Mascote com telefone numa mão e duas contas sobrepostas na outra",
+   "tela": "R$ 100",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot holds a large classic telephone handset in one hand and two overlapping oversized paper bills in the other. Worried, tense face. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "prompt_original": "Vertical 9:16 composition, exactly one character. The mascot holds a large phone in one hand and two overlapping oversized bills in the other. Worried, tense face. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "revisao": "O uso de 'phone' (celular) viola a regra de elementos proibidos.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem atende perfeitamente a todos os requisitos: mascote correto, telefone em uma mão e duas contas sobrepostas na outra, sem texto."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Você não percebeu o erro e pagou o valor inteiro.",
+   "ideia": "Mascote pagando no caixa, entregando moedas ao atendente",
+   "tela": "PAGO",
+   "prompt": "Vertical 9:16 composition, exactly one mascot plus one faceless stick figure. The mascot leans forward over a simple counter, handing a large pile of gold coins to the stick-figure attendant. Anxious, resigned face. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem retrata perfeitamente o mascote triste entregando moedas no caixa ao atendente, sem texto e cumprindo todas as regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Depois, você nota a falha e pede o dinheiro de volta.",
+   "ideia": "Mascote retorna bravo ao balcão, apontando para a conta",
+   "tela": "DEVOLUÇÃO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot strides back toward a simple counter, jabbing a finger at a large bill held up. Angry, demanding face. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: o mascote possui as características corretas, está bravo no balcão segurando/apontando para a conta sem texto legível, ilustrando perfeitamente a fala."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Normal seria devolver só os R$ 100 cobrados a mais.",
+   "ideia": "Atendente devolvendo um saquinho de moedas ao mascote",
+   "tela": "R$ 100",
+   "prompt": "Vertical 9:16 composition, exactly one mascot plus one faceless stick figure. The stick-figure attendant extends a large cloth money bag toward the mascot, who reaches for it. Skeptical, unimpressed face. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem atende a todas as regras: o mascote está correto, o atendente boneco-palito sem rosto está entregando o saco ao mascote e não há textos."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Parece troco certo no mercado: só a diferença.",
+   "ideia": "Caixa entregando poucas moedas de troco para o mascote",
+   "tela": "TROCO",
+   "prompt": "Vertical 9:16 composition, exactly one mascot plus one faceless stick figure. The stick-figure cashier drops a few oversized gold coins into the mascot’s open palm. Disappointed, doubtful face. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 9,
+    "motivo": "A imagem mostra a figura sem rosto entregando moedas ao mascote, ilustrando a ideia de troco sem conter textos."
+   },
+   "notas": {
+    "a": 9
+   }
+  },
+  {
+   "fala": "Agora, a parte surpreendente.",
+   "ideia": "Mascote com olhos arregalados e mãos na cabeça",
+   "tela": "SURPRESA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot throws both hands to its head, elbows wide. Eyes huge in shock. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras e mostra o mascote com olhos arregalados e mãos na cabeça, transmitindo surpresa."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Como você já pagou, a lei te protege mais.",
+   "ideia": "Grande escudo ao lado do mascote, postura confiante",
+   "tela": "PROTEGE",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot stands chest out, one hand on hip, the other touching a large shield beside it. Confident, proud smile. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: mascote correto, postura confiante, escudo visível representando a proteção e sem nenhum texto."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "A empresa não pode devolver só o extra cobrado.",
+   "ideia": "Mascote fazendo gesto de pare para o prédio da empresa",
+   "tela": "NÃO SÓ",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot holds one palm out in a stop gesture toward a large simple office building icon at its side. Firm, assertive face. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 8,
+    "motivo": "O mascote segue as regras e o gesto em direção ao prédio transmite a ideia de reprovação e parada."
+   },
+   "notas": {
+    "a": 8
+   }
+  },
+  {
+   "fala": "Ela deve devolver R$ 200: o dobro do que pagou a mais.",
+   "ideia": "Empresa entregando dois saquinhos de moedas ao mascote feliz",
+   "tela": "R$ 200",
+   "prompt": "Vertical 9:16 composition, exactly one mascot plus one faceless stick figure. The stick-figure company rep hands over two large cloth money bags to the mascot, who beams and grabs them. Overjoyed face. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem representa fielmente a ideia, mostrando o boneco-palito entregando dois sacos ao mascote feliz, sem descumprir nenhuma regra."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "E ainda vem correção e juros legais.",
+   "ideia": "Relógio ao lado de pilhas de moedas crescendo",
+   "tela": "JUROS",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points to a large clock beside growing stacks of big gold coins. Satisfied, knowing grin. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote está correto e a imagem mostra claramente o relógio ao lado das pilhas de moedas crescendo, transmitindo a ideia de juros e correção ao longo do tempo."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "O nome chique disso é repetição do indébito.",
+   "ideia": "Mascote de cartola e monóculo fazendo pose elegante",
+   "tela": "REPETIÇÃO DO INDÉBITO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot strikes an elegant pose wearing an oversized top hat and monocle. Smug, fancy face. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "A imagem segue todas as regras visuais, exibindo o mascote com cartola, monóculo e pose elegante coerente com a ideia."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Salvo engano justificável, volta em dobro. Guarda isso.",
+   "ideia": "Mascote mostrando dois saquinhos e apontando para a própria cabeça",
+   "tela": "EM DOBRO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot holds up two large cloth money bags and taps its temple with the other hand. Intense, remember-this face. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: o mascote segura dois saquinhos (representando a devolução em dobro) e aponta para a cabeça ('guarda isso')."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Se isso já te pegou, comenta DOBRO aqui embaixo.",
+   "ideia": "Mascote apontando para baixo com os dois polegares",
+   "tela": "COMENTA DOBRO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot leans forward, both thumbs pointing straight down toward the bottom edge. Energetic, urging face. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "O mascote respeita os elementos visuais e aponta para baixo conforme a ideia solicitada."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Seja bem-vindo ao mundo real.",
+   "ideia": "Mascote acenando levemente, fundo simples",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot gives a small gentle wave with one hand, relaxed posture. Warm, welcoming smile. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote possui todas as características exigidas, acena de forma clara, o fundo é simples e transmite a ideia de boas-vindas."
+   },
+   "notas": {
+    "a": 10
+   }
+  }
+ ],
+ "ajustes": [
+  "Simplifiquei linguagem e conectei as frases para conversa fluida.",
+  "Mantive a surpresa no meio e convite para comentar na penúltima cena.",
+  "Corrigi a regra: devolução em dobro do que foi pago a mais.",
+  "Incluí correção, juros legais e exceção de engano justificável.",
+  "Ajustei ideias para funcionar sem texto na imagem e telas curtas.",
+  "Mantive 17 cenas e cerca de 141 palavras, falas até 20 palavras."
+ ]
+}

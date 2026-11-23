@@ -18,7 +18,7 @@ Temas da mesma família (cartão, juros, trabalho) podem virar um vídeo longo n
 | 6 | Direitos | Compra chegou com defeito: e agora? | 30 dias para a loja consertar, senão troca, devolve ou abate | CDC, art. 18 | feito 20/11 |
 | 7 | Ciência | Por que a gente boceja? | o que se sabe e o mistério do bocejo contagioso | Divulgação científica de universidades | feito 21/11 |
 | 8 | Dinheiro | O que é a Selic? | o "preço do dinheiro" que puxa todos os outros juros | Banco Central (Copom) | feito 22/11 |
-| 9 | Direitos | Pagou cobrança indevida? Você recebe em dobro | cobraram R$ 100 a mais, devolvem R$ 200 | CDC, art. 42 | fila |
+| 9 | Direitos | Pagou cobrança indevida? Você recebe em dobro | cobraram R$ 100 a mais, devolvem R$ 200 | CDC, art. 42 | feito 23/11 |
 | 10 | Dinheiro | O que é score de crédito? | a "nota de bom pagador" e o que realmente sobe | Banco Central (cadastro positivo) | fila |
 | 11 | Ciência | Por que o gelo boia? | a água "estica" quando congela | Material didático de química | fila |
 | 12 | Dinheiro | Cheque especial: por que é uma armadilha? | limite que parece salário, juro de até 8% ao mês | Banco Central (teto do cheque especial) | fila |
