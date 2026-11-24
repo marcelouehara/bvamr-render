@@ -1,0 +1,262 @@
+{
+ "titulo": "Quanto vai cair do seu 13º salário?",
+ "descricao": "Entenda de forma simples como funciona o cálculo do décimo terceiro e por que a segunda parcela vem menor que a primeira. Descubra os prazos e regras oficiais sem complicações.",
+ "hashtags": [
+  "decimoterceiro",
+  "educacaofinanceira",
+  "trabalho",
+  "direitostrabalhistas",
+  "financas",
+  "salario"
+ ],
+ "fontes": [
+  {
+   "nome": "Lei nº 4.090/1962 - Planalto",
+   "url": "http://www.planalto.gov.br/ccivil_03/leis/l4090.htm"
+  },
+  {
+   "nome": "Lei nº 4.749/1965 - Planalto",
+   "url": "http://www.planalto.gov.br/ccivil_03/leis/l4749.htm"
+  },
+  {
+   "nome": "Portal Gov.br - Regras do Décimo Terceiro Salário",
+   "url": "https://www.gov.br"
+  }
+ ],
+ "cenas": [
+  {
+   "fala": "Você já se perguntou quanto realmente vai receber de décimo terceiro?",
+   "ideia": "Mascote curioso com a mão na testa olhando um calendário de parede",
+   "tela": "13º",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot shades its eyes with one hand and leans forward, peering at a large wall calendar. Wide curious eyes and raised brows. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "A imagem cumpre as regras do mascote, exibe o calendário sem textos e demonstra a pose curiosa solicitada."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "A resposta tem nome: metades. Só que tem um detalhe na conta.",
+   "ideia": "Mascote segura um bolo grande e encara uma tesoura gigante",
+   "tela": "METADES",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot clutches a big cake close while stepping back, staring at a giant open scissors looming nearby. Jaw dropped, nervous sweat, wide alarmed eyes. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 9,
+    "motivo": "O mascote segura um bolo e encara a tesoura gigante com apreensão, ilustrando perfeitamente a ideia."
+   },
+   "notas": {
+    "a": 9
+   }
+  },
+  {
+   "fala": "Imagina que você ganha R$ 1.200 por mês no seu trabalho.",
+   "ideia": "Mascote sorrindo com saquinho de dinheiro ao lado de um prédio de empresa",
+   "tela": "R$ 1.200",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot stands side-on, one hand proudly on a large cloth money bag, the other gesturing to a simple tall office building block beside it. Big grin, sparkling eyes. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre perfeitamente a ideia e todas as regras, mostrando o mascote com gravata e curativo sorrindo com o saco de dinheiro ao lado do prédio."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Para cada mês com 15 dias ou mais, você junta 1/12 do salário de dezembro.",
+   "ideia": "Mascote aponta calendário com meia folha marcada e encaixa peça de quebra-cabeça",
+   "tela": "15 DIAS",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points to a large wall calendar with half a page highlighted while fitting a big jigsaw puzzle piece into place with the other hand. Focused, tongue out a bit. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 9,
+    "motivo": "A imagem cumpre todas as regras: mascote correto, sem texto, mostrando o calendário parcialmente marcado e a peça de quebra-cabeça."
+   },
+   "notas": {
+    "a": 9
+   }
+  },
+  {
+   "fala": "Se trabalhou o ano inteiro, juntou as 12 partes.",
+   "ideia": "Mascote orgulhoso segurando o quebra-cabeça redondo totalmente montado",
+   "tela": "12/12",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot lifts high a large round jigsaw puzzle fully assembled, chest out in triumph. Beaming pride, sparkly eyes. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: mascote correto, sem texto, e mostra com clareza o mascote orgulhoso segurando o quebra-cabeça redondo montado."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "É como juntar fatias de uma pizza no ano todo.",
+   "ideia": "Mascote coloca a última fatia para completar a pizza inteira",
+   "tela": "PIZZA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot slides the last slice into a big whole pizza, hands careful and precise. Satisfied smile, relieved eyes. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "O mascote segue todas as regras visuais e encaixa a fatia para completar a pizza, transmitindo a ideia com clareza."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "A primeira parcela tem que cair até 30 de novembro.",
+   "ideia": "Mascote feliz correndo para uma caixa de correio com as mãos estendidas",
+   "tela": "ATÉ 30 NOV",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot sprints toward a large mailbox, arms stretched forward to reach it. Joyful open-mouthed smile, eager eyes. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 8.5,
+    "motivo": "O mascote segue o modelo correto, está feliz e correndo em direção à caixa de correio com as mãos estendidas, sem textos na imagem."
+   },
+   "notas": {
+    "a": 8.5
+   }
+  },
+  {
+   "fala": "Você recebe metade do valor, sem nenhum desconto.",
+   "ideia": "Mascote corta a pizza ao meio e põe metade em um prato limpo",
+   "tela": "50% SEM DESCONTO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot cuts a big pizza cleanly in half and places one half onto a spotless plate. Confident grin, focused eyes. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "B",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras do mascote, sem texto, e ilustra perfeitamente o mascote cortando a pizza e colocando metade em um prato limpo."
+   },
+   "notas": {
+    "a": 6,
+    "b": 10
+   }
+  },
+  {
+   "fala": "No nosso exemplo, caem R$ 600 limpos na conta.",
+   "ideia": "Mascote comemora com moedas douradas caindo na mão",
+   "tela": "R$ 600",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot throws one hand up while the other catches a shower of big gold coins. Ecstatic face, eyes sparkling, mouth wide in cheer. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote está correto, comemorando com moedas douradas caindo perto das mãos, sem texto e transmite perfeitamente a fala."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "A parte surpreendente vem agora: a segunda parcela até 20 de dezembro.",
+   "ideia": "Mascote assustado olhando um relógio apitando na mesa",
+   "tela": "ATÉ 20 DEZ",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot flinches back, hands up, staring at a loud alarm clock buzzing on a table. Shocked wide eyes, mouth in an O. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem representa perfeitamente a ideia solicitada: o mascote com todos os detalhes está assustado, olhando para o relógio apitando sobre a mesa, sem nenhum texto."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Nela saem, de uma vez, os descontos do 13º: aposentadoria e imposto.",
+   "ideia": "Uma mão gigante tira um pedaço da metade de pizza do mascote",
+   "tela": "DESCONTOS",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot hugs a big half pizza while a giant hand from off-frame snatches a slice from it. Startled, eyebrows shooting up, anxious mouth. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem ilustra com perfeição a mão tirando um pedaço da pizza do mascote, sem texto e seguindo todas as regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Por isso, a segunda parcela vem menor do que a primeira.",
+   "ideia": "Mascote triste olhando um prato com uma fatia bem menor de pizza",
+   "tela": "MENOR",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot slumps, hands on the table edge, staring sadly at a plate holding a very small pizza slice. Teary eyes, pouty frown. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras e mostra claramente o mascote triste olhando para uma fatia bem pequena de pizza."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "O nome chique disso é gratificação natalina.",
+   "ideia": "Mascote de cartola e gravata borboleta ao lado de um pinheirinho",
+   "tela": "GRATIFICAÇÃO NATALINA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot tips a top hat and adjusts a bow tie beside a tiny decorated pine tree. Fancy smug grin, twinkling eyes. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem mostra perfeitamente o mascote de cartola e gravata borboleta ao lado do pinheirinho, ilustrando muito bem a ideia e a fala."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Guarda a regra: primeira parcela vem cheia; a segunda faz os descontos.",
+   "ideia": "Mascote aponta para um caderninho de anotações com ar de professor",
+   "tela": "REGRA 13º",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot stands side-on, one hand pointing like a teacher at a large open notebook, the other hand on hip. Serious instructive face, raised brow. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 9,
+    "motivo": "O mascote segue todas as regras visuais, aponta para o caderno aberto com uma vareta com ar de professor e a imagem não possui nenhum texto."
+   },
+   "notas": {
+    "a": 9
+   }
+  },
+  {
+   "fala": "Se você já tomou esse susto, comenta PARCELA aqui embaixo.",
+   "ideia": "Mascote aponta para baixo com as duas mãos e pisca um olho",
+   "tela": "COMENTA PARCELA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot leans forward, pointing down with both hands while giving an exaggerated wink. Playful grin. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote aponta para baixo com as duas mãos e pisca o olho, perfeitamente alinhado com a fala e a ideia."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Seja bem-vindo ao mundo real.",
+   "ideia": "Mascote cansado acenando com uma mão, fundo branco",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot waves tiredly with one hand, the other hand on knee for support. Weary eyes and droopy smile. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: mascote com as características corretas, expressão de cansado, acenando com uma mão e fundo branco."
+   },
+   "notas": {
+    "a": 10
+   }
+  }
+ ],
+ "ajustes": [
+  "Troquei datas com barra por 30 de novembro e 20 de dezembro.",
+  "Corrigi a explicação: descontos recaem sobre o 13º (aposentadoria e imposto), não sobre o ano todo.",
+  "Incluí a regra dos 15 dias para contar o mês trabalhado.",
+  "Mantive o exemplo de R$ 1.200 e metade de R$ 600.",
+  "Deixei a linguagem mais simples e conectada, com transições naturais.",
+  "Ajustei telas para até três palavras e destaque de palavras-chave.",
+  "Mantive fontes, título, descrição e hashtags."
+ ]
+}
