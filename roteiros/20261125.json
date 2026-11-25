@@ -1,0 +1,274 @@
+{
+ "titulo": "Por que o gelo boia?",
+ "descricao": "Entenda por que a água se comporta de um jeito único quando congela e por que o gelo flutua no seu copo. Uma explicação simples para qualquer pessoa entender a ciência do dia a dia.",
+ "hashtags": [
+  "ciencia",
+  "curiosidades",
+  "quimica",
+  "fisica",
+  "educacao",
+  "mundo real"
+ ],
+ "fontes": [
+  {
+   "nome": "Brasil Escola - Por que o gelo flutua na água?",
+   "url": "https://brasilescola.uol.com.br/quimica/por-que-gelo-flutua-na-agua.htm"
+  },
+  {
+   "nome": "PrePara ENEM - Dilatação anômala da água",
+   "url": "https://www.preparaenem.com/fisica/dilatacao-anomala-agua.htm"
+  }
+ ],
+ "cenas": [
+  {
+   "fala": "Por que o gelo boia na água em vez de afundar?",
+   "ideia": "Mascote careca com curativo e gravata vermelha observa um cubo de gelo flutuando num copo grande",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot leans in, holding a huge glass of water with a floating ice cube, one hand on the rim. Exaggerated curious face, wide eyes and open mouth. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem mostra claramente o mascote com gravata vermelha e curativo observando um cubo de gelo flutuando num copo."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "A resposta tem a ver com espaço.",
+   "ideia": "Mascote afasta dois livros grandes, abrindo um vão entre eles",
+   "tela": "ESPAÇO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot pushes two oversized simple books apart with both hands, creating a clear gap. Exaggerated focused face, tongue out in concentration. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 9,
+    "motivo": "O mascote está com as características corretas e afasta dois livros grandes, criando um vão claro entre eles para ilustrar o conceito de espaço."
+   },
+   "notas": {
+    "a": 9
+   }
+  },
+  {
+   "fala": "Só que tem um detalhe que quase ninguém percebe.",
+   "ideia": "Mascote aproxima o rosto, dedo nos lábios em sinal de segredo",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot leans forward, holding a big index finger to the lips in a hush pose. Exaggerated secretive face, narrowed eyes and smirk. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote cumpre todas as regras visuais e faz claramente o sinal de segredo com o dedo nos lábios."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Imagina que você tem 10 bolinhas juntas dentro de uma caixa pequena.",
+   "ideia": "Mascote mostra caixa aberta com dez bolinhas bem apertadas",
+   "tela": "10 BOLINHAS",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot presents an open box with ten small balls tightly packed inside, holding it with both hands. Exaggerated proud face, big grin. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "A imagem atende a todos os critérios: mascote correto mostrando a caixa com dez bolinhas apertadas e sem texto."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Elas ficam bem coladas e a caixa pesa para o tamanho.",
+   "ideia": "Mascote segura a caixinha com esforço, corpo inclinado",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot struggles to hold a small box, body tilted, arms straining. Exaggerated strained face, clenched teeth and sweat drop. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote cumpre todas as regras visuais e é mostrado segurando uma caixinha amarela com visível esforço e corpo inclinado."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Só que quando a água congela, acontece algo muito esquisito.",
+   "ideia": "Mascote vê uma gota virar um cubo de gelo brilhante",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points, watching a big water droplet next to a bright icy cube forming with sparkles. Exaggerated shocked face, wide eyes. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "Representa o mascote correto observando a gota virar um cubo de gelo brilhante, sem textos."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "As bolinhas empurram umas às outras e a caixa estica.",
+   "ideia": "Caixa se abre e cresce para os lados, bolinhas se afastando",
+   "tela": "ESTICA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot throws hands up, reacting to a box stretching open sideways as the balls inside push apart. Exaggerated astonished face, mouth agape. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "B",
+    "nota": 9,
+    "motivo": "A imagem ilustra claramente a caixa amarela se abrindo para os lados com bolinhas coloridas dentro, atendendo a todos os requisitos e regras."
+   },
+   "notas": {
+    "a": 6,
+    "b": 9
+   }
+  },
+  {
+   "fala": "O peso continua igual, mas o tamanho agora é maior.",
+   "ideia": "Mascote compara caixa pequena e a mesma caixa maior ao lado",
+   "tela": "MESMO PESO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot gestures comparison between two boxes side by side: one small, one clearly larger. Exaggerated thoughtful face, raised eyebrow. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote está com todos os traços corretos e compara claramente a caixa menor com a maior ao lado."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Pensa numa fila: quando abre espaço, ocupa mais lugar sem ganhar peso.",
+   "ideia": "Mascote afasta bonequinhos de uma fila, aumentando os espaços",
+   "tela": "MAIS ESPAÇO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot uses both hands to slide small toy figures in a line farther apart, widening gaps. Exaggerated explaining face, open smile. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "O mascote cumpre as regras visuais e aparece afastando a fila de pequenos bonecos ao esticar os braços, ilustrando a ideia de abrir espaço."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Agora, a parte surpreendente.",
+   "ideia": "Mascote de olhos arregalados, mãos na cabeça",
+   "tela": "SURPREENDENTE",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot grips the head with both hands in suspense. Exaggerated wide-eyed, jaw-dropped face. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: o mascote tem olhos arregalados, mãos na cabeça e expressa perfeitamente a surpresa da fala."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Se a água não esticasse ao congelar, o gelo iria direto para o fundo.",
+   "ideia": "Mascote triste vendo cubos afundando num aquário",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot reaches toward a large aquarium as ice cubes sink to the bottom. Exaggerated sad face, teary eyes and frown. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: o mascote está triste, com o visual correto, e os cubos de gelo estão no fundo do aquário, ilustrando a fala com clareza."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "E aí, os lagos poderiam congelar por inteiro, colocando os peixes em risco.",
+   "ideia": "Aquário quase todo tomado por gelo, peixes lá embaixo preocupados",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points at a big aquarium almost filled with white ice, with small worried fish near the bottom. Exaggerated concerned face, eyebrows arched. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem ilustra perfeitamente o aquário quase congelado por inteiro com os peixes preocupados no fundo, seguindo todas as regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Como o gelo boia, vira uma tampa que protege a vida lá embaixo.",
+   "ideia": "Camada de gelo no topo do aquário, água líquida abaixo com peixes",
+   "tela": "PROTEÇÃO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot gives a thumbs up beside a large aquarium with a clear ice layer on top and liquid water with fish below. Exaggerated relieved face, soft smile. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "B",
+    "nota": 10,
+    "motivo": "A imagem mostra claramente o mascote ao lado de um aquário com uma camada de gelo no topo e água líquida com peixes embaixo, atendendo perfeitamente à ideia e às regras."
+   },
+   "notas": {
+    "a": 3,
+    "b": 10
+   }
+  },
+  {
+   "fala": "O nome chique disso é dilatação anômala da água.",
+   "ideia": "Mascote de cartola e monóculo faz pose elegante",
+   "tela": "DILATAÇÃO ANÔMALA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot strikes an elegant pose, one hand lifting a large top hat, a big monocle over one eye. Exaggerated posh face, smug smile. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem segue perfeitamente todas as regras e ilustra com clareza a ideia do mascote elegante com cartola e monóculo."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Então guarda esta ideia: gelo estica e fica menos denso, por isso boia.",
+   "ideia": "Mascote aponta um copo com cubo de gelo flutuando visivelmente maior que a gota",
+   "tela": "GELO BOIA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points at a huge glass of water with a floating ice cube clearly larger than a nearby droplet. Exaggerated teaching face, confident grin. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 9,
+    "motivo": "O mascote está correto e aponta para o copo com o cubo de gelo flutuando sobre a água, respeitando todas as regras."
+   },
+   "notas": {
+    "a": 9
+   }
+  },
+  {
+   "fala": "Curioso? Comenta GELO.",
+   "ideia": "Mascote aponta para baixo com as duas mãos e pisca",
+   "tela": "COMENTA GELO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points down with both hands and winks. Exaggerated playful face, big wink and grin. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "Atende a todas as regras da marca, piscando e apontando para baixo perfeitamente."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Seja bem-vindo ao mundo real.",
+   "ideia": "Mascote acena de leve, fundo branco",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot gives a small friendly wave with one hand. Exaggerated warm face, gentle smile. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "prompt_original": "Vertical 9:16 composition, exactly one character. The mascot gives a small friendly wave with one hand. Exaggerated warm face, gentle smile. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "revisao": "A ideia especificava fundo branco, mas o prompt utilizava azul-claro.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre perfeitamente a ideia com o mascote correto acenando em um fundo branco."
+   },
+   "notas": {
+    "a": 10
+   }
+  }
+ ],
+ "ajustes": [
+  "Simplifiquei a linguagem e conectei as frases para soar como conversa.",
+  "Troquei a analogia da bexiga por uma fila para evitar confusão sobre peso.",
+  "Ajustei a parte dos lagos para não afirmar morte de todos os peixes.",
+  "Refinei imagens para mostrar ações concretas sem depender de texto na imagem.",
+  "Reduzi o texto para 167 palavras, mantendo 17 cenas e falas curtas.",
+  "Mantive o termo técnico só perto do fim e a surpresa no meio."
+ ]
+}
