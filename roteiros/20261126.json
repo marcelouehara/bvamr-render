@@ -1,0 +1,249 @@
+{
+ "titulo": "Black Friday: como saber se o desconto é de verdade?",
+ "descricao": "Descubra se o desconto anunciado na Black Friday é verdadeiro ou enganoso. Entenda a famosa metade do dobro e veja o que diz o Código de Defesa do Consumidor.",
+ "hashtags": [
+  "blackfriday",
+  "procon",
+  "direitodoconsumidor",
+  "economiadadia",
+  "desconto"
+ ],
+ "fontes": [
+  {
+   "nome": "Código de Defesa do Consumidor - Artigo 37",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+  },
+  {
+   "nome": "Procon - Orientações para a Black Friday",
+   "url": "https://www.procon.sp.gov.br"
+  }
+ ],
+ "cenas": [
+  {
+   "fala": "Você desconfia que o desconto da Black Friday é real?",
+   "ideia": "Mascote desconfiado, sobrancelha arqueada, olhando vitrine cheia de etiquetas sem números",
+   "tela": "Black Friday",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot leans forward with one hand on chin and the other shading eyes, peering at a big store window packed with blank price tags. Exaggerated suspicious raised eyebrow. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "B",
+    "nota": 10,
+    "motivo": "Ilustra perfeitamente o mascote desconfiado olhando para etiquetas sem números na vitrine, seguindo todas as regras."
+   },
+   "notas": {
+    "a": 3,
+    "b": 10
+   }
+  },
+  {
+   "fala": "Tem truque por trás. A loja dá uma maquiada no preço, bem antes.",
+   "ideia": "Mascote usando pincel grande, passando tinta numa etiqueta amarela apagando marcas",
+   "tela": "MAQUIAGEM",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot sweeps a huge paintbrush across a large yellow price tag, covering old marks. Exaggerated sly smirk, focused eyes. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: o mascote está correto, sem texto, usando um pincel grande para passar tinta na etiqueta amarela."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Imagina uma camiseta custando 100 reais, preço normal de todo dia.",
+   "ideia": "Mascote olhando camiseta no cabide e segurando um saquinho de moedas",
+   "tela": "100",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot eyes a large T-shirt on a hanger while clutching a cloth money bag. Exaggerated thoughtful face, lips pursed. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote segue todas as regras visuais, está segurando a camiseta no cabide e o saquinho de moedas, representando a ideia perfeitamente."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Semanas antes, o preço sobe para 200, sem mudar nada no produto.",
+   "ideia": "Loja esticando uma etiqueta para cima com uma vara como se elevasse o valor",
+   "tela": "200",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot pushes a big price tag upward using a long pole, arms straining. Exaggerated gritted-teeth effort. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem ilustra com clareza o mascote empurrando a etiqueta de preço para cima com uma vara, sem nenhum texto e seguindo todas as regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "No dia da promoção, aparece 50% de desconto e muita gente corre.",
+   "ideia": "Tesoura gigante cortando uma faixa, pessoas correndo de fundo em direção à vitrine",
+   "tela": "50%",
+   "prompt": "Vertical 9:16 composition, exactly one mascot plus one faceless stick figure. The mascot lunges forward using giant scissors to cut a wide ribbon beside a stick figure running near a shop window. Exaggerated excited grin. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "prompt_original": "Vertical 9:16 composition, exactly one mascot plus one faceless stick figure. The mascot lunges forward using giant scissors to cut a wide ribbon; the stick figure runs toward a big shop window in the back. Exaggerated excited grin. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "revisao": "Uso de profundidade de campo/perspectiva ('in the back') que viola a regra 6.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 9,
+    "motivo": "A imagem mostra o mascote com a tesoura gigante cortando a faixa e um boneco-palito correndo para a vitrine, sem textos."
+   },
+   "notas": {
+    "a": 9
+   }
+  },
+  {
+   "fala": "Parece milagre, só que é tinta por cima da pedra, bem brilhante.",
+   "ideia": "Mascote mostra pedra pintada de dourado, ainda pingando tinta",
+   "tela": "TINTA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot presents a large rock painted gold, still dripping shiny paint, held up with both hands. Exaggerated showman pride, dazzled eyes. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: o mascote está correto e segura uma pedra pintada de dourado que está pingando tinta."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Agora vem o perigo de verdade, onde muita gente tropeça.",
+   "ideia": "Mascote quase escorregando numa casca de banana no chão",
+   "tela": "PERIGO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot flails arms while slipping on an oversized banana peel on the floor. Exaggerated wide-eyed panic. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem ilustra perfeitamente o mascote escorregando na casca de banana, seguindo todas as regras com precisão."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Você paga 100 achando que fez o negócio do ano, felizão.",
+   "ideia": "Mascote sorrindo, entregando moedas no balcão e abraçando uma sacola",
+   "tela": "100",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot beams, sliding a big pile of gold coins across a counter with one hand while hugging a shopping bag with the other. Exaggerated joyful grin. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote está sorrindo, com moedas no balcão e segurando a sacola de compras, perfeito com a ideia."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Só que pagou exatamente o preço normal de antes, zero vantagem real.",
+   "ideia": "Duas pilhas de moedas do mesmo tamanho ao lado do mascote surpreso",
+   "tela": "PREÇO NORMAL",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot throws arms up beside two equal tall stacks of gold coins. Exaggerated shocked face, mouth agape. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: o mascote está surpreso e há duas pilhas de moedas de mesmo tamanho ao seu lado, sem texto."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "O apelido disso é metade do dobro, um truque bem manjado.",
+   "ideia": "Balança com duas caixas idênticas, uma cortada ao meio do outro lado",
+   "tela": "METADE DO DOBRO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points emphatically at a large balance scale: one side holds a full box, the other a box cut in half, perfectly level. Exaggerated knowing smirk. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "B",
+    "nota": 9,
+    "motivo": "A imagem cumpre todas as regras: o mascote correto aponta para a balança contendo as caixas que representam o conceito visualmente, sem texto."
+   },
+   "notas": {
+    "a": 3,
+    "b": 9
+   }
+  },
+  {
+   "fala": "O nome chique disso é propaganda enganosa, simples assim.",
+   "ideia": "Mascote de cartola e monóculo fazendo reverência exagerada",
+   "tela": "PROPAGANDA ENGANOSA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot bows deeply wearing an oversized top hat and holding a huge monocle up to one eye. Exaggerated pompous grin. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "NENHUMA",
+    "nota": 5,
+    "motivo": "A imagem mostra a cartola e o monóculo, mas o mascote não está fazendo a reverência exagerada."
+   },
+   "notas": {
+    "a": 4,
+    "b": 5,
+    "c": 5
+   }
+  },
+  {
+   "fala": "O Código do Consumidor, artigo 37, proíbe enganar com preço e anúncio confuso.",
+   "ideia": "Mascote usa um livro gigante como escudo contra uma etiqueta que tenta empurrá-lo",
+   "tela": "ARTIGO 37",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot braces behind a giant closed book used as a shield while a big blank price tag presses against it. Exaggerated firm, determined stare. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 8,
+    "motivo": "O mascote segura um livro grande como escudo contra o símbolo da etiqueta de preço, embora a etiqueta não esteja em movimento empurrando-o."
+   },
+   "notas": {
+    "a": 8
+   }
+  },
+  {
+   "fala": "E o Procon reforça: desconto só vale quando o preço cai mesmo, de verdade.",
+   "ideia": "Etiqueta de preço deslizando para baixo numa corda, mascote confirma com joinha",
+   "tela": "PROCON",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot gives a big thumbs up while a large price tag slides down a rope beside them. Exaggerated satisfied smile. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 9,
+    "motivo": "Mascote correto fazendo joinha ao lado da etiqueta de preço na corda, sem textos."
+   },
+   "notas": {
+    "a": 9
+   }
+  },
+  {
+   "fala": "Se isso já te pegou, comenta DESCONTO.",
+   "ideia": "Mascote apontando para baixo com as duas mãos, piscando um olho",
+   "tela": "COMENTA DESCONTO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points both hands straight down toward the large empty bottom area, winking broadly. Exaggerated playful wink and grin. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras, mostrando o mascote correto piscando o olho e apontando para baixo com ambas as mãos."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Seja bem-vindo ao mundo real.",
+   "ideia": "Mascote cansado acenando com uma mão, fundo branco",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot wearily waves one hand, shoulders slumped. Exaggerated tired eyes and sighing mouth. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: mascote correto, cansado, acenando com uma mão e fundo branco."
+   },
+   "notas": {
+    "a": 10
+   }
+  }
+ ],
+ "ajustes": [
+  "Simplifiquei a linguagem e liguei as frases com conectores.",
+  "Mantive a surpresa no meio: pagar o mesmo preço sem vantagem.",
+  "Reforcei o exemplo numérico 100→200→50%, sem erros.",
+  "Evitei dependência de texto na imagem; usei ações e objetos.",
+  "Deixei termos técnicos e base legal só no fim.",
+  "Ajustei telas para repetir números e palavras-chave curtas.",
+  "Mantive 15 cenas, 162 palavras, cada fala com até 20 palavras.",
+  "Penúltima fala pede comentar DESCONTO e a última é a frase fixa."
+ ]
+}
