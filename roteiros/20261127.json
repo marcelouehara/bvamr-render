@@ -1,0 +1,248 @@
+{
+ "titulo": "Por que a cebola faz chorar?",
+ "descricao": "Entenda por que a cebola faz a gente chorar ao ser cortada e como a química desse gás de defesa funciona. Descubra o truque simples para nunca mais chorar na cozinha.",
+ "hashtags": [
+  "cebola",
+  "quimica",
+  "curiosidades",
+  "ciencia",
+  "cozinha",
+  "mundoreal"
+ ],
+ "fontes": [
+  {
+   "nome": "Manual da Química - UOL",
+   "url": "https://www.manualdaquimica.com/curiosidades/por-que-choramos-ao-cortar-cebola.htm"
+  },
+  {
+   "nome": "Ciência Hoje das Crianças - SBPC",
+   "url": "https://chc.org.br/acervo/nao-chore-mais-por-mim/"
+  }
+ ],
+ "cenas": [
+  {
+   "fala": "Por que você começa a chorar sempre que vai cortar uma cebola?",
+   "ideia": "Mascote careca com curativo na testa e gravata vermelha segurando uma faca diante de uma cebola inteira, limpando uma lágrima",
+   "tela": "CEBOLA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot grips a large knife in one hand and wipes a tear with the other beside a big whole onion. Exaggerated pained, watery-eyed expression. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "O mascote possui todos os elementos solicitados e a cena transmite claramente a ideia de chorar ao cortar cebola."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "É porque ela solta um gás que irrita os olhos.",
+   "ideia": "Mascote recua enquanto uma fumacinha sai da cebola e chega perto dos olhos",
+   "tela": "GÁS",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot leans back and raises a forearm shield as a small smoke puff rises from a big onion toward the eyes. Exaggerated stinging, squinting expression. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 7,
+    "motivo": "A imagem representa bem o mascote recuando com a fumaça da cebola atingindo seus olhos, respeitando as regras."
+   },
+   "notas": {
+    "a": 7
+   }
+  },
+  {
+   "fala": "Imagina que a cebola vive quietinha na terra e não quer virar comida.",
+   "ideia": "Mascote olhando para uma cebola sorridente enterrada na terra como se fosse uma planta no vaso",
+   "tela": "NA TERRA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot bends forward with hands on knees, staring at a large potted onion half-buried in soil, the onion smiling simply. Exaggerated curious, gentle smile. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem ilustra perfeitamente a ideia, com o mascote correto olhando para a cebola sorridente enterrada na terra."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Ela guarda dois ingredientes em caixinhas separadas dentro de cada pedacinho.",
+   "ideia": "Mascote observando um corte transparente de cebola com dois compartimentos internos fechados por pequenos cadeados",
+   "tela": "POR DENTRO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points closely at a giant transparent onion cross-section showing two inner compartments sealed with small padlocks. Exaggerated intrigued, wide-eyed expression. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem ilustra perfeitamente o mascote observando o corte da cebola com dois compartimentos fechados por cadeados, seguindo todas as regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Enquanto a cebola tá inteira, nada acontece.",
+   "ideia": "Mascote calmo de braços cruzados ao lado da cebola fechada e intacta",
+   "tela": "INTEIRA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot crosses arms calmly beside a big intact closed onion. Exaggerated relaxed, serene smile. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "prompt_original": "Vertical 9:16 composition, exactly one character. The mascot stands calm with arms crossed beside a big intact closed onion. Exaggerated relaxed, serene smile. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "revisao": "Uso do verbo passivo 'stands'; substituído por ação direta com as mãos.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem ilustra perfeitamente o mascote de braços cruzados ao lado de uma cebola inteira e intacta, respeitando todas as regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Só que, quando você corta, essas caixinhas se quebram de uma vez.",
+   "ideia": "Mascote descendo uma faca grande e dividindo a cebola ao meio",
+   "tela": "CORTE",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot swings a large knife downward, slicing a big onion cleanly in half. Exaggerated focused, tense face. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem mostra perfeitamente o mascote com a faca dividindo a cebola ao meio, seguindo todas as regras do personagem e sem texto."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Aí os dois ingredientes se misturam na hora e formam um gás irritante.",
+   "ideia": "Mascote assustado enquanto uma pequena nuvem de fumaça brota do meio da cebola aberta",
+   "tela": "GÁS IRRITANTE",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot jolts back with hands up as a small smoke puff rises from the middle of a freshly cut open onion. Exaggerated startled, fearful eyes. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem mostra claramente o mascote assustado e uma pequena nuvem de fumaça saindo da cebola aberta, respeitando todas as regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "É como se a cebola soltasse um spray de pimenta em miniatura para te expulsar.",
+   "ideia": "Mascote tossindo e cobrindo o rosto enquanto a cebola lança uma névoa em direção a ele",
+   "tela": "SPRAY DE DEFESA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot coughs, one hand covering face, the other waving air as a big onion emits a fine mist toward them. Exaggerated overwhelmed, squinting grimace. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 8,
+    "motivo": "O mascote e a cebola estão corretos e a reação é clara, embora a névoa pareça sair da boca dele em vez da cebola."
+   },
+   "notas": {
+    "a": 8
+   }
+  },
+  {
+   "fala": "Agora vem a parte surpreendente.",
+   "ideia": "Mascote em alerta com olhos arregalados, apontando o dedo indicador para cima",
+   "tela": "SURPREENDENTE",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot snaps upright, one finger pointing up decisively. Exaggerated alert, eyes wide open. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote está perfeitamente alinhado com a descrição, em alerta, com olhos arregalados e apontando o indicador para cima."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Esse gás voa pelo ar e reage com a água dos seus olhos.",
+   "ideia": "Mascote vendo fumacinhas invisíveis subindo da tábua de cortar e tocando no rosto dele",
+   "tela": "NOS OLHOS",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot leans toward a cutting board, watching faint wavy fumes rise from the surface toward their face. Exaggerated wary, blinking eyes. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "prompt_original": "Vertical 9:16 composition, exactly one character. The mascot leans toward the board, watching faint wavy fumes rise from the surface toward their face. Exaggerated wary, blinking eyes. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "revisao": "Termo 'board' ambíguo; especificado para 'cutting board' conforme a ideia.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 9,
+    "motivo": "O mascote aparece corretamente com o gás subindo da tábua de cortar em direção ao rosto/olho irritado."
+   },
+   "notas": {
+    "a": 9
+   }
+  },
+  {
+   "fala": "E aí o seu cérebro manda fabricar lágrimas para lavar tudo e te proteger.",
+   "ideia": "Mascote chorando córregos de água com um balde embaixo de cada olho para aparar o choro",
+   "tela": "LÁGRIMAS",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot sobs torrents, holding two simple buckets under each eye to catch tears. Exaggerated bawling, mouth trembling. Plain light yellow background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem ilustra perfeitamente a ideia com o mascote correto segurando um balde embaixo de cada olho para aparar as lágrimas."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "O nome chique disso é fator lacrimogêneo.",
+   "ideia": "Mascote vestindo cartola e monóculo, fazendo pose elegante ao segurar um tubo de ensaio",
+   "tela": "FATOR LACRIMOGÊNEO",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot wears a top hat and monocle, striking a fancy pose while delicately presenting a large test tube. Exaggerated posh, smug smile. Plain light blue background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem cumpre todas as regras: mascote correto, com cartola, monóculo, pose elegante e tubo de ensaio, sem textos."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Então faz assim: cebola fria solta menos gás e diminui a choradeira.",
+   "ideia": "Mascote sorridente tirando uma cebola gelada de dentro de um cubo de gelo transparente gigante",
+   "tela": "CEBOLA FRIA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot beams, pulling a big onion out of a giant transparent ice cube. Exaggerated delighted, triumphant grin. Plain light green background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote segue todas as regras visuais e a cena ilustra perfeitamente a ideia da cebola sendo tirada de um cubo de gelo gigante, sem texto."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Comenta CEBOLA.",
+   "ideia": "Mascote sorrindo e apontando para baixo com os dois dedos indicadores, piscando um olho",
+   "tela": "COMENTA CEBOLA",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot points downward with both index fingers while giving an exaggerated wink. Exaggerated playful, inviting smile. Plain pink background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "O mascote está sorrindo, piscando um olho e apontando para baixo com os dois dedos indicadores perfeitamente."
+   },
+   "notas": {
+    "a": 10
+   }
+  },
+  {
+   "fala": "Seja bem-vindo ao mundo real.",
+   "ideia": "Mascote cansado acenando suavemente com uma das mãos em um fundo limpo",
+   "tela": "",
+   "prompt": "Vertical 9:16 composition, exactly one character. The mascot gives a tired slow wave with one hand, shoulders slightly slumped. Exaggerated exhausted yet friendly face. Plain white background. Bottom third of the image empty. No text, no numbers, no letters.",
+   "checagem": {
+    "escolha": "A",
+    "nota": 10,
+    "motivo": "A imagem mostra exatamente o mascote cansado acenando com uma mão num fundo limpo, seguindo todas as regras."
+   },
+   "notas": {
+    "a": 10
+   }
+  }
+ ],
+ "ajustes": [
+  "Simplifiquei a linguagem e conectei as frases para soar conversa.",
+  "Evitei termos técnicos cedo; deixei 'fator lacrimogêneo' só no fim.",
+  "Corrigi 'córte' para 'corte' e troquei faca de madeira por faca grande.",
+  "Retirei o número indefinido de células quebradas.",
+  "Ajustei ideias para mostrar ações sem depender de texto na imagem.",
+  "Padronizei telas com palavras‑chave curtas e coerentes.",
+  "Checagem de fatos: gás irritante da cebola e dica de esfriar confirmados.",
+  "Penúltima fala virou convite direto: 'Comenta CEBOLA'."
+ ]
+}

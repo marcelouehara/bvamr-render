@@ -29,7 +29,7 @@ Reavaliar depois de 10 a 14 vídeos comparando views e % assistido por tipo de p
 | 24 | Dinheiro | Quanto vai cair do seu 13º salário? | 1/12 do salário por mês trabalhado; 1ª parcela até 30/11, 2ª até 20/12 | Lei 4.090/1962, Lei 4.749/1965, gov.br | feito 24/11 |
 | 11 | Ciência | Por que o gelo boia? | a água "estica" quando congela | Material didático de química | feito 25/11 |
 | 31 | Direitos | Black Friday: como saber se o desconto é de verdade? | a "metade do dobro": preço sobe antes para "cair" na sexta; propaganda enganosa é proibida | CDC, art. 37; Procon | feito 26/11 |
-| 15 | Ciência | Por que a cebola faz chorar? | a cebola solta um "gás de defesa" quando é cortada | Divulgação científica de química | fila |
+| 15 | Ciência | Por que a cebola faz chorar? | a cebola solta um "gás de defesa" quando é cortada | Divulgação científica de química | feito 27/11 |
 | 21 | Direitos | Voo atrasou: quais são seus direitos? | 1h comunicação, 2h comida, 4h hotel ou reembolso | ANAC, Resolução 400 | fila |
 | 20 | Dinheiro | Por que o Pix é grátis para você? | quem paga a rede são os bancos, centavos por operação | Banco Central (Pix) | fila |
 | 19 | Ciência | Por que dá sono depois do almoço? | o relógio do corpo tem um "vale" no começo da tarde | Divulgação científica (medicina do sono) | fila |
